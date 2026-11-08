@@ -1,0 +1,46 @@
+{
+  "status": "Pilot v0.2 source additions; AI inspection, not independent review",
+  "accessed": "2026-11-01",
+  "sources": [
+    {
+      "sourceId": "M3-H01",
+      "url": "https://arxiv.org/abs/2210.03629v1",
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "publisher": "Yao et al., author-submitted paper on arXiv",
+      "kind": "web",
+      "version": "arXiv:2210.03629v1",
+      "published": "2022-10-06",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [[8, 30]],
+      "locator": "Version/date metadata, abstract and submission history",
+      "scope": "Historical design anchor only; no full-paper or outcome validation",
+      "claimId": "M3-H-C01",
+      "claim": "The 2022 paper describes interleaving model reasoning and environment actions; its scope is not an organizational delivery methodology.",
+      "limits": "Do not infer framework ancestry, adoption or comparative effectiveness. No numerical findings imported."
+    },
+    {
+      "sourceId": "M3-H02",
+      "url": "https://arxiv.org/abs/2405.15793v1",
+      "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+      "publisher": "Yang et al., author-submitted paper on arXiv",
+      "kind": "web",
+      "version": "arXiv:2405.15793v1",
+      "published": "2024 — year used in manuscript",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [[8, 28]],
+      "locator": "Version/date metadata, abstract and submission history",
+      "scope": "Historical software-agent design anchor; not a full benchmark assessment",
+      "claimId": "M3-H-C02",
+      "claim": "The 2024 paper describes an agent interface for repository navigation, file editing and program execution.",
+      "limits": "No benchmark numbers or framework rankings imported; experiments were not reproduced."
+    }
+  ],
+  "additionalRechecks": [
+    {"sourceId": "M2-B03", "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84", "inspectedRanges": [[70, 104]], "retrieval": "INSPECTED", "accessed": "2026-11-01"},
+    {"sourceId": "M2-B05", "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84", "inspectedRanges": [[97, 124]], "retrieval": "INSPECTED", "accessed": "2026-11-01"},
+    {"sourceId": "M2-B07", "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84", "inspectedRanges": [[76, 105]], "retrieval": "INSPECTED", "accessed": "2026-11-01"}
+  ],
+  "notImported": "Search results and the later SWE-agent HTML were consulted for discovery/context; pilot claims cite the two explicit v1 metadata/abstract pages above. No later-version numerical result is used."
+}

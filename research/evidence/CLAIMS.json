@@ -1,0 +1,986 @@
+{
+  "status": "Research-editor extraction; independent technical review pending",
+  "accessDate": "2026-10-31",
+  "claims": [
+    {
+      "id": "B-C01",
+      "claim": "The inspected stable-source manifest identifies bmad-method 6.12.4 and Node >=20.12.0.",
+      "refs": [
+        [
+          "M2-B10",
+          "L3–L5; L118–L120"
+        ]
+      ],
+      "chapters": [
+        "C04",
+        "C11"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "B-C02",
+      "claim": "The planning guide permits direct low-risk edits and scales specification/story planning to the intent.",
+      "refs": [
+        [
+          "M2-B02",
+          "L8–L45; L118–L137"
+        ]
+      ],
+      "chapters": [
+        "C02",
+        "C04",
+        "C10"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "B-C03",
+      "claim": "Build documentation distinguishes a light path from flagged designs requiring a written plan and human answers/approval.",
+      "refs": [
+        [
+          "M2-B03",
+          "L70–L98"
+        ]
+      ],
+      "chapters": [
+        "C04",
+        "C09"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "B-C04",
+      "claim": "The spec guide retains capability IDs and directs spec updates through bmad-spec rather than manual SPEC.md edits.",
+      "refs": [
+        [
+          "M2-B05",
+          "L99–L122"
+        ]
+      ],
+      "chapters": [
+        "C04",
+        "C08",
+        "C13"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "B-C05",
+      "claim": "Brownfield guidance prioritizes existing code and recommends archiving old greenfield context away from ordinary changes.",
+      "refs": [
+        [
+          "M2-B04",
+          "L8–L33; L51–L79"
+        ]
+      ],
+      "chapters": [
+        "C04",
+        "C08"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "B-C06",
+      "claim": "Built-in generated QA and optional TEA are separate; the built-in path targets limited coverage of already implemented code.",
+      "refs": [
+        [
+          "M2-B07",
+          "L8–L34; L76–L105"
+        ]
+      ],
+      "chapters": [
+        "C04",
+        "C12"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "B-C07",
+      "claim": "Team customization docs distinguish committed team overrides from personal overrides.",
+      "refs": [
+        [
+          "M2-B06",
+          "L8–L32"
+        ]
+      ],
+      "chapters": [
+        "C04",
+        "C09"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "B-C08",
+      "claim": "The main README labels v7 preview while pointing stable users to V6.12; its stated ETA predates access.",
+      "refs": [
+        [
+          "M2-B11",
+          "L18–L32"
+        ]
+      ],
+      "chapters": [
+        "C04"
+      ],
+      "kind": "documented version labeling",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "An expired ETA is not proof of a release.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "G-C01",
+      "claim": "The old GSD framework README directs readers to open-gsd/gsd-core.",
+      "refs": [
+        [
+          "M2-G07",
+          "L5–L12"
+        ]
+      ],
+      "chapters": [
+        "C03",
+        "C05"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "G-C02",
+      "claim": "The selected Core phase-loop documentation links discussion, planning, execution, verification and shipment through persistent artifacts.",
+      "refs": [
+        [
+          "M2-G01",
+          "L25–L59"
+        ]
+      ],
+      "chapters": [
+        "C05",
+        "C08"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "G-C03",
+      "claim": "Core installation documentation has distinct host integrations and explicitly identifies differing hook capabilities.",
+      "refs": [
+        [
+          "M2-G03",
+          "L11–L13; L122–L136; L162–L180"
+        ]
+      ],
+      "chapters": [
+        "C05",
+        "C09"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "These are Core-maintainer integration claims; hosts were not installed or independently validated.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "G-C04",
+      "claim": "At the same pin, the install guide says Node 18+ while package engines require Node >=24 and npm >=10.",
+      "refs": [
+        [
+          "M2-G03",
+          "L5"
+        ],
+        [
+          "M2-G06",
+          "L70–L73"
+        ]
+      ],
+      "chapters": [
+        "C05",
+        "C11"
+      ],
+      "kind": "documented conflict",
+      "status": "CONTESTED DOCUMENTATION / MANIFEST REQUIREMENTS",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Resolve source/package compatibility before installation; do not average the requirements.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "G-C05",
+      "claim": "The verification guide describes human UAT and treats standalone code review as optional rather than automatic on ship.",
+      "refs": [
+        [
+          "M2-G04",
+          "L15–L22; L72–L89"
+        ]
+      ],
+      "chapters": [
+        "C05",
+        "C12"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "G-C06",
+      "claim": "The verification guide documents fingerprint-based staleness checks for changed inputs and a legacy fallback.",
+      "refs": [
+        [
+          "M2-G04",
+          "L106–L115"
+        ]
+      ],
+      "chapters": [
+        "C05",
+        "C13"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Implementation/enforcement was not exercised.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "G-C07",
+      "claim": "Fresh context is a claimed mitigation strategy in Core documentation, not a measured guarantee of preserved reasoning quality.",
+      "refs": [
+        [
+          "M2-G02",
+          "L26–L53"
+        ],
+        [
+          "M2-G01",
+          "L45–L49"
+        ]
+      ],
+      "chapters": [
+        "C05",
+        "C09"
+      ],
+      "kind": "interested-party outcome claim",
+      "status": "CLAIM ONLY FOR EFFECTIVENESS",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "No method-specific controlled test of that effect was established here.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "A-C01",
+      "claim": "AWS's original article presents inception, construction and operations as its conceptual lifecycle.",
+      "refs": [
+        [
+          "M2-W01",
+          "How does AI-DLC work?; extracted L234–L237"
+        ]
+      ],
+      "chapters": [
+        "C01",
+        "C06"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "A-C02",
+      "claim": "The inspected Workflows implementation documents five phases and 33 stages, with profile tables excluding three setup stages.",
+      "refs": [
+        [
+          "M2-A01",
+          "L18–L45"
+        ],
+        [
+          "M2-A02",
+          "L38–L43"
+        ]
+      ],
+      "chapters": [
+        "C06",
+        "C09"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "A-C03",
+      "claim": "Classic/Express profile documentation changes ceremony/review defaults and exposes guard-policy overrides.",
+      "refs": [
+        [
+          "M2-A02",
+          "L45–L95"
+        ]
+      ],
+      "chapters": [
+        "C06",
+        "C09"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "A-C04",
+      "claim": "The inspected plan-approval hook includes an explicit disable-flag branch returning without enforcement.",
+      "refs": [
+        [
+          "M2-A03",
+          "L2391–L2397"
+        ]
+      ],
+      "chapters": [
+        "C06",
+        "C12"
+      ],
+      "kind": "static source observation",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Only selected code paths were inspected; this is not a complete hook or security audit.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "A-C05",
+      "claim": "Workflows artifacts distinguish committed state/audit/verification records from transient engine data.",
+      "refs": [
+        [
+          "M2-A04",
+          "L25–L54"
+        ]
+      ],
+      "chapters": [
+        "C06",
+        "C08"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "A-C06",
+      "claim": "Construction documentation distinguishes serial unit-major, stage-major and conditional parallel/team behavior.",
+      "refs": [
+        [
+          "M2-A01",
+          "L65–L82"
+        ]
+      ],
+      "chapters": [
+        "C06",
+        "C09"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Documentation is not evidence of organizational performance or actual parallel execution.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "A-C07",
+      "claim": "The native Workflows installer and the application runtime are different dependencies; README says native operation does not require Node/Bun.",
+      "refs": [
+        [
+          "M2-A06",
+          "L29–L45"
+        ]
+      ],
+      "chapters": [
+        "C06",
+        "C11"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "U-C01",
+      "claim": "AIUP's workflow maps versioned requirements, use cases, models, decision records and acceptance/release artifacts.",
+      "refs": [
+        [
+          "M2-U01",
+          "L48–L66; L113–L136"
+        ]
+      ],
+      "chapters": [
+        "C07",
+        "C08"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "U-C02",
+      "claim": "The layered-stack workflow explicitly separates agent-alone decisions, ask-first decisions and prohibited unilateral edits.",
+      "refs": [
+        [
+          "M2-U01",
+          "L339–L357"
+        ]
+      ],
+      "chapters": [
+        "C07",
+        "C09"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "The cited decision-rights defaults are expressly for layered stacks; do not automatically apply them to the combined Node plugin.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "U-C03",
+      "claim": "Spec review distinguishes deterministic lint from advisory semantic judgment and prescribes reporting without fixing findings.",
+      "refs": [
+        [
+          "M2-U03",
+          "L41–L65"
+        ]
+      ],
+      "chapters": [
+        "C07",
+        "C12"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "U-C04",
+      "claim": "The inspected Node construction plugin targets NestJS/Drizzle/PostgreSQL plus Next.js and documents Docker-backed tests.",
+      "refs": [
+        [
+          "M2-U02",
+          "L9–L26; L82–L88"
+        ]
+      ],
+      "chapters": [
+        "C07",
+        "C11"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "U-C05",
+      "claim": "The combined Node plugin manifest at the research pin reports version 0.9.0.",
+      "refs": [
+        [
+          "M2-U04",
+          "L2–L5"
+        ]
+      ],
+      "chapters": [
+        "C07"
+      ],
+      "kind": "documented version identity",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "A source manifest is not evidence that the same contents were published or installed.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "U-C06",
+      "claim": "The workflow explicitly says the Node combined plugin does not yet ship the equivalent coverage auditor offered by certain other adapters.",
+      "refs": [
+        [
+          "M2-U01",
+          "L388–L417"
+        ]
+      ],
+      "chapters": [
+        "C07",
+        "C09",
+        "C12"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "U-C07",
+      "claim": "The Node implementation skill prescribes reconciling existing features in place, preserving unrelated work and adding new schema migrations.",
+      "refs": [
+        [
+          "M2-U09",
+          "L47–L68"
+        ]
+      ],
+      "chapters": [
+        "C07",
+        "C08",
+        "C13"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "U-C08",
+      "claim": "AIUP documents specification-first changes and treats reverse-engineered brownfield artifacts as a proposed baseline requiring gap resolution.",
+      "refs": [
+        [
+          "M2-U01",
+          "L475–L494"
+        ],
+        [
+          "M2-U08",
+          "L25–L30; L48–L58"
+        ]
+      ],
+      "chapters": [
+        "C07",
+        "C08"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "U-C09",
+      "claim": "Transition documentation connects human acceptance records to Done status and generated user/release documentation.",
+      "refs": [
+        [
+          "M2-U01",
+          "L419–L447"
+        ]
+      ],
+      "chapters": [
+        "C07",
+        "C09"
+      ],
+      "kind": "documented design",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "S-C01",
+      "claim": "The SDD lifecycle patterns are attributed analytical terminology, not a universal standards-based maturity rating.",
+      "refs": [
+        [
+          "M2-W03",
+          "Definition; three patterns, extracted L74–L98"
+        ]
+      ],
+      "chapters": [
+        "C03",
+        "C08"
+      ],
+      "kind": "editorial analysis",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "Moderate; stated premises and boundaries",
+      "limits": "Attribute the source; current method behavior needs its own evidence.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "S-C02",
+      "claim": "AIUP's website self-identifies with persistent, spec-anchored work; that self-description does not demonstrate correctness.",
+      "refs": [
+        [
+          "M2-W02",
+          "Three levels / Level 2, extracted L219–L244"
+        ]
+      ],
+      "chapters": [
+        "C08"
+      ],
+      "kind": "documented self-description",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Source describes the selected scope; no execution, effectiveness or general suitability is established.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "R-C01",
+      "claim": "The inspected comparison preprint uses documentary qualitative assessment, a single rater and a declared Reversa-author conflict; its scores are not measured effectiveness.",
+      "refs": [
+        [
+          "M2-W04",
+          "Sections 2 and 6, especially extracted L123–L126 and L234–L236"
+        ]
+      ],
+      "chapters": [
+        "C03",
+        "C09"
+      ],
+      "kind": "primary research methodology",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Directed/traction-filtered selection is not exhaustive. The inspected current Core host documentation differs from the paper's GSD portability account; do not transfer old scores.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "R-C02",
+      "claim": "METR's 2025 study reports 16 developers, 246 tasks and a 19% time increase in its particular AI-allowed setting.",
+      "refs": [
+        [
+          "M2-W05",
+          "Methodology / Core Result / generalization table"
+        ]
+      ],
+      "chapters": [
+        "C01",
+        "C02",
+        "C09"
+      ],
+      "kind": "external controlled-study report",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Not a BMAD/GSD/AI-DLC/AIUP trial; dated tools and familiar open-source tasks limit transfer.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "R-C03",
+      "claim": "METR's 2026 update warns that selection and agent-time measurement make its later productivity estimate unreliable.",
+      "refs": [
+        [
+          "M2-W06",
+          "Opening discussion and Wider adoption, extracted L35–L64"
+        ]
+      ],
+      "chapters": [
+        "C09",
+        "C11"
+      ],
+      "kind": "primary research limitations",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "This does not establish either universal acceleration or slowdown.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "R-C04",
+      "claim": "A first-hand AI-DLC platform account discloses incomplete verification and an AWS-affiliated author.",
+      "refs": [
+        [
+          "M2-W07",
+          "What I verified / Author / personal-views statement"
+        ]
+      ],
+      "chapters": [
+        "C06",
+        "C13"
+      ],
+      "kind": "first-hand field report",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Different collaborative sample, no randomized comparator, some teammate records; not independent method-superiority evidence.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "R-C05",
+      "claim": "A dated third-party AI-DLC documentary review distinguishes concept, reference workflow and sample platforms.",
+      "refs": [
+        [
+          "M2-R05",
+          "L5–L16; L39–L60; L68–L70"
+        ]
+      ],
+      "chapters": [
+        "C06",
+        "C09"
+      ],
+      "kind": "first-hand documentary analysis",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Self-described independent analysis, not an independently verified benchmark; August version details are not October defaults.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "T-C01",
+      "claim": "The Node release page lists Node 24 as LTS at access, making that major a source-compatible candidate for Core's >=24 declaration.",
+      "refs": [
+        [
+          "M2-W08",
+          "Release table, v24"
+        ],
+        [
+          "M2-G06",
+          "L70–L73"
+        ]
+      ],
+      "chapters": [
+        "C11"
+      ],
+      "kind": "editorial analysis",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "Moderate; stated premises and boundaries",
+      "limits": "Candidate only; exact patch/compiler/framework/adapter and real compatibility remain untested.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "T-C02",
+      "claim": "Node 24's TypeScript type stripping is not static typechecking, ignores tsconfig and does not transform decorators.",
+      "refs": [
+        [
+          "M2-W09",
+          "Type stripping / TypeScript features, extracted L145–L148 and L193–L195"
+        ],
+        [
+          "M2-W10",
+          "TypeScript goal, extracted L140"
+        ]
+      ],
+      "chapters": [
+        "C11",
+        "C12"
+      ],
+      "kind": "documented runtime behavior",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Do not substitute direct .ts execution for the adapter's compiler/metadata pipeline.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "H-C01",
+      "claim": "GitHub's original announcement dates the Copilot technical preview to 29 June 2021.",
+      "refs": [
+        [
+          "M2-W11",
+          "Announcement date and first paragraph, extracted L429–L445"
+        ]
+      ],
+      "chapters": [
+        "C01"
+      ],
+      "kind": "primary historical announcement",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "A selective historical anchor, not the invention date of all AI-assisted development.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "V-C01",
+      "claim": "The BMAD release tag resolves to the stable research pin; the GSD and AWS release tags resolve to earlier commits than their researched main snapshots.",
+      "refs": [
+        [
+          "M2-VB",
+          "latest release metadata and tag commit"
+        ],
+        [
+          "M2-VG",
+          "latest release metadata and tag commit"
+        ],
+        [
+          "M2-VA",
+          "latest release metadata and tag commit"
+        ]
+      ],
+      "chapters": [
+        "C04",
+        "C05",
+        "C06",
+        "C11"
+      ],
+      "kind": "primary version metadata",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Same displayed version does not mean identical content. Release assets/npm registry were not verified.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "V-C02",
+      "claim": "AIUP's latest-release endpoint returns the Node component tag v0.8.1 while the inspected main component manifest is 0.9.0.",
+      "refs": [
+        [
+          "M2-VU",
+          "latest release metadata and tag commit"
+        ],
+        [
+          "M2-U04",
+          "L2–L5"
+        ]
+      ],
+      "chapters": [
+        "C07",
+        "C11"
+      ],
+      "kind": "primary version metadata",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Multi-component repository endpoint is not a global AIUP version or an installed-release guarantee.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "L-C01",
+      "claim": "Inspected BMAD/Core licence files identify MIT; AWS identifies MIT-0; AIUP identifies Apache-2.0 plus NOTICE.",
+      "refs": [
+        [
+          "M2-B08",
+          "L1–L16"
+        ],
+        [
+          "M2-G05",
+          "L1–L13"
+        ],
+        [
+          "M2-A05",
+          "L1–L16"
+        ],
+        [
+          "M2-U05",
+          "L1–L5; L89–L121"
+        ],
+        [
+          "M2-U06",
+          "L1–L16"
+        ]
+      ],
+      "chapters": [
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ],
+      "kind": "licence-text observation",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for the exact inspected passage/metadata, not outcomes",
+      "limits": "Describes files, not legal clearance for any selected book asset; logos/books/prompts require scope-specific review.",
+      "counterevidence": "See research/CONTESTED_CLAIMS.md and dossier gaps; absence of evaluation is not a negative method score.",
+      "rights": "Independent summary with citation; no external prompt/code/figure reuse cleared by this record."
+    },
+    {
+      "id": "T-C03",
+      "claim": "Official Nest docs distinguish application and higher CLI-generator requirements; current Next installation docs state Node >=20.9 and TypeScript >=5.1.",
+      "refs": [
+        [
+          "M2-W17",
+          "Language / Prerequisites / Setup; extracted L198–L215"
+        ],
+        [
+          "M2-W18",
+          "System requirements / Set up TypeScript; extracted L138–L143 and L287–L291"
+        ]
+      ],
+      "chapters": [
+        "C11",
+        "C12"
+      ],
+      "kind": "documented technical behavior",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for inspected official documentation only",
+      "limits": "Current docs are not an adopted framework/compiler pin or proof that the selected adapter runs correctly.",
+      "counterevidence": "Exact stack/compiler/module configuration and installation remain untested.",
+      "rights": "Independent summary; no external code reproduced."
+    },
+    {
+      "id": "T-C04",
+      "claim": "TypeScript documents emitDecoratorMetadata as a compiler option emitting decorator type metadata.",
+      "refs": [
+        [
+          "M2-W19",
+          "Option description and output comparison; extracted L5–L7 and L92–L147"
+        ]
+      ],
+      "chapters": [
+        "C11",
+        "C12"
+      ],
+      "kind": "documented technical behavior",
+      "status": "SUPPORTED FOR STATED DOCUMENTARY SCOPE",
+      "confidence": "High for inspected official documentation only",
+      "limits": "Current docs are not an adopted framework/compiler pin or proof that the selected adapter runs correctly.",
+      "counterevidence": "Exact stack/compiler/module configuration and installation remain untested.",
+      "rights": "Independent summary; no external code reproduced."
+    }
+  ]
+}

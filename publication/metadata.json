@@ -1,0 +1,51 @@
+{
+  "title": "Engineering with AI",
+  "subtitle": "Beyond Vibe Coding",
+  "author": "Yunus Kiran",
+  "authorSource": "Name from the connected GitHub profile. Byline has not been independently approved as a legal publishing name.",
+  "edition": "First edition",
+  "language": "en-US",
+  "publicationDate": "2026-11-05",
+  "identifier": "urn:uuid:ea339bd3-8ab9-4a3b-a3a6-19166e31d0ad",
+  "tagline": "A practical comparison of BMAD Method, GSD, AWS AI-DLC, and AI Unified Process",
+  "subjects": [
+    "Computers / Software Development & Engineering / General",
+    "Computers / Artificial Intelligence / General",
+    "Computers / Software Development & Engineering / Project Management"
+  ],
+  "subjectNote": "Candidate subjects. Confirm the exact available category paths in the chosen KDP marketplace.",
+  "keywords": [
+    "AI software development methodologies",
+    "spec driven development workflows",
+    "coding agents verification",
+    "software engineering decision records",
+    "AI assisted development governance",
+    "multi tenant approval case study",
+    "agentic workflow comparison"
+  ],
+  "description": "AI can produce a convincing implementation before a team has agreed what makes it acceptable. Engineering with AI: Beyond Vibe Coding examines how engineers can keep decisions, context, and verification connected as more work moves to coding agents.\n\nYunus Kiran compares BMAD Method, the selected GSD Core lineage, AWS AI-DLC workflow profiles, and AI Unified Process through common engineering questions. A synthetic vendor-access approval service carries those questions through a feature, a policy change, and a tenant-boundary repair. Spec-Driven Development provides a cross-cutting lens for ownership and maintenance.\n\nThe book includes worked decision records, context handoffs, acceptance controls, diagnostic exercises, and a small TypeScript policy model with passing local checks. It distinguishes documented mechanisms from observed outcomes and gives teams a framework for choosing and evaluating a workflow under their own constraints.\n\nWritten for practicing developers, technical leads, and architects. Method accounts use dated source snapshots. The case is a qualitative walkthrough, and the book reports no four-method benchmark or production certification.",
+  "backCover": "When an agent finishes a change, who decides it is acceptable?\n\nFollow the decisions that connect intent, implementation, and evidence. Compare four AI-oriented development methods through a common set of engineering questions, then apply them to a synthetic multi-tenant approval service.\n\nExplore specification ownership, persistent context, human decision rights, verification freshness, and recovery after a failed handoff. Worked examples and reader exercises turn each distinction into a question a team can inspect.\n\nFor developers, technical leads, and architects building a disciplined practice with coding agents.",
+  "aiDisclosure": "The manuscript text was drafted and revised using generative AI under the direction of Yunus Kiran. Technical, source, similarity and editorial checks in the publication report were performed by an AI assistant. Independent human review has not been completed. The cover was designed by an AI assistant using original programmatic typography and geometric artwork.",
+  "print": {
+    "trimInches": [
+      6,
+      9
+    ],
+    "ink": "black and white",
+    "paper": "white",
+    "interiorBleed": false,
+    "insideMarginInches": 0.625,
+    "outsideMarginInches": 0.625,
+    "coverBleedInches": 0.125,
+    "spineInchesPerPage": 0.002252,
+    "finish": "matte",
+    "barcode": "Reserved blank area for the KDP barcode. No ISBN has been assigned."
+  },
+  "distribution": "Prepared for upload. No marketplace publication or KDP Select enrollment has been performed.",
+  "aiGenerated": {
+    "text": true,
+    "coverArtwork": true
+  },
+  "editionNumber": 1,
+  "revision": "1.1"
+}

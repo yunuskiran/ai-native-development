@@ -1,0 +1,1148 @@
+{
+  "date": "2026-11-05",
+  "reviewer": "AI assistant",
+  "independentHumanReview": false,
+  "githubRetrieval": [
+    {
+      "id": "M2-B02",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/choose-a-planning-path.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 181
+    },
+    {
+      "id": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 210
+    },
+    {
+      "id": "M2-B04",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/existing-codebases/start-in-an-existing-codebase.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 88
+    },
+    {
+      "id": "M2-B05",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/define-requirements-and-a-specification.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 141
+    },
+    {
+      "id": "M2-B07",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/test-completed-work.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 118
+    },
+    {
+      "id": "M2-B10",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/package.json",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 125
+    },
+    {
+      "id": "M2-G03",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/install-on-your-runtime.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 651
+    },
+    {
+      "id": "M2-G06",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/package.json",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 194
+    },
+    {
+      "id": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 255
+    },
+    {
+      "id": "M2-U02",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/README.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 141
+    },
+    {
+      "id": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 500
+    },
+    {
+      "id": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 130
+    },
+    {
+      "id": "M2-A01",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/04-phases-and-stages.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 493
+    },
+    {
+      "id": "M2-G07",
+      "url": "https://github.com/gsd-build/get-shit-done/blob/bdcaab2c752d9a33a1a1ca9acf3a3c81fb991815/README.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 13
+    },
+    {
+      "id": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 138
+    },
+    {
+      "id": "M2-A03",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/core/hooks/aidlc-plan-approval-guard.ts",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 3153
+    },
+    {
+      "id": "M2-A04",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/14-artifacts-reference.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 358
+    },
+    {
+      "id": "M2-U03",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-core/skills/spec-review/SKILL.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 325
+    },
+    {
+      "id": "M2-U07",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/skills/nest-test/SKILL.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 320
+    },
+    {
+      "id": "M2-U09",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/skills/implement/SKILL.md",
+      "kind": "github-file",
+      "status": "retrieved",
+      "lines": 276
+    }
+  ],
+  "githubCitationOccurrences": 95,
+  "githubRangeChecks": [
+    {
+      "chapter": "C02",
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "start": 15,
+      "end": 23,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C03",
+      "sourceId": "M2-A01",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/04-phases-and-stages.md",
+      "start": 18,
+      "end": 45,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C03",
+      "sourceId": "M2-B02",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/choose-a-planning-path.md",
+      "start": 8,
+      "end": 65,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C03",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 25,
+      "end": 59,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C03",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 45,
+      "end": 95,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C03",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 48,
+      "end": 66,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C03",
+      "sourceId": "M2-B05",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/define-requirements-and-a-specification.md",
+      "start": 112,
+      "end": 116,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C03",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 475,
+      "end": 494,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C03",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 25,
+      "end": 59,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B10",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/package.json",
+      "start": 1,
+      "end": 8,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B02",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/choose-a-planning-path.md",
+      "start": 8,
+      "end": 65,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "start": 62,
+      "end": 81,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B02",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/choose-a-planning-path.md",
+      "start": 50,
+      "end": 86,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "start": 82,
+      "end": 92,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B05",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/define-requirements-and-a-specification.md",
+      "start": 97,
+      "end": 124,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B02",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/choose-a-planning-path.md",
+      "start": 118,
+      "end": 137,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "start": 28,
+      "end": 31,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "start": 62,
+      "end": 71,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "start": 132,
+      "end": 147,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "start": 113,
+      "end": 131,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B07",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/test-completed-work.md",
+      "start": 8,
+      "end": 34,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B07",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/test-completed-work.md",
+      "start": 76,
+      "end": 105,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C04",
+      "sourceId": "M2-B04",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/existing-codebases/start-in-an-existing-codebase.md",
+      "start": 8,
+      "end": 79,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C05",
+      "sourceId": "M2-G07",
+      "url": "https://github.com/gsd-build/get-shit-done/blob/bdcaab2c752d9a33a1a1ca9acf3a3c81fb991815/README.md",
+      "start": 1,
+      "end": 12,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C05",
+      "sourceId": "M2-G03",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/install-on-your-runtime.md",
+      "start": 1,
+      "end": 10,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C05",
+      "sourceId": "M2-G06",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/package.json",
+      "start": 68,
+      "end": 74,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C05",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 25,
+      "end": 59,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C05",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 25,
+      "end": 59,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C05",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 25,
+      "end": 59,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C05",
+      "sourceId": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "start": 9,
+      "end": 89,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C05",
+      "sourceId": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "start": 106,
+      "end": 115,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C05",
+      "sourceId": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "start": 9,
+      "end": 89,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C05",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 77,
+      "end": 90,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A01",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/04-phases-and-stages.md",
+      "start": 18,
+      "end": 45,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 45,
+      "end": 95,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 24,
+      "end": 43,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A01",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/04-phases-and-stages.md",
+      "start": 61,
+      "end": 82,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 45,
+      "end": 95,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A04",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/14-artifacts-reference.md",
+      "start": 25,
+      "end": 54,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 45,
+      "end": 95,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A03",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/core/hooks/aidlc-plan-approval-guard.ts",
+      "start": 2391,
+      "end": 2397,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A01",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/04-phases-and-stages.md",
+      "start": 18,
+      "end": 45,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 45,
+      "end": 95,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C06",
+      "sourceId": "M2-A01",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/04-phases-and-stages.md",
+      "start": 61,
+      "end": 82,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 48,
+      "end": 66,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U02",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/README.md",
+      "start": 9,
+      "end": 26,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 111,
+      "end": 136,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 319,
+      "end": 357,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 319,
+      "end": 337,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U03",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-core/skills/spec-review/SKILL.md",
+      "start": 41,
+      "end": 65,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U07",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/skills/nest-test/SKILL.md",
+      "start": 22,
+      "end": 32,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 388,
+      "end": 417,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U09",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/skills/implement/SKILL.md",
+      "start": 47,
+      "end": 79,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 419,
+      "end": 447,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 475,
+      "end": 494,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C07",
+      "sourceId": "M2-U09",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/skills/implement/SKILL.md",
+      "start": 47,
+      "end": 68,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C08",
+      "sourceId": "M2-B05",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/define-requirements-and-a-specification.md",
+      "start": 97,
+      "end": 124,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C08",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 475,
+      "end": 494,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C08",
+      "sourceId": "M2-B02",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/choose-a-planning-path.md",
+      "start": 118,
+      "end": 137,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C08",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 25,
+      "end": 59,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C08",
+      "sourceId": "M2-A04",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/14-artifacts-reference.md",
+      "start": 25,
+      "end": 54,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C08",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 475,
+      "end": 494,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C08",
+      "sourceId": "M2-B04",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/existing-codebases/start-in-an-existing-codebase.md",
+      "start": 8,
+      "end": 79,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "start": 62,
+      "end": 92,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 77,
+      "end": 90,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 45,
+      "end": 95,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 319,
+      "end": 357,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-A03",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/core/hooks/aidlc-plan-approval-guard.ts",
+      "start": 2391,
+      "end": 2397,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-B05",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/define-requirements-and-a-specification.md",
+      "start": 97,
+      "end": 124,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 25,
+      "end": 59,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-A04",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/14-artifacts-reference.md",
+      "start": 25,
+      "end": 54,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 475,
+      "end": 494,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-B07",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/test-completed-work.md",
+      "start": 76,
+      "end": 105,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "start": 9,
+      "end": 89,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 45,
+      "end": 95,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C09",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 388,
+      "end": 417,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-G03",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/install-on-your-runtime.md",
+      "start": 1,
+      "end": 10,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-G06",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/package.json",
+      "start": 68,
+      "end": 74,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 45,
+      "end": 95,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-U02",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/README.md",
+      "start": 9,
+      "end": 26,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 388,
+      "end": 417,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "start": 15,
+      "end": 23,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-B05",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/define-requirements-and-a-specification.md",
+      "start": 97,
+      "end": 124,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 25,
+      "end": 59,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "start": 106,
+      "end": 115,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 24,
+      "end": 43,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-U02",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/README.md",
+      "start": 9,
+      "end": 26,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C10",
+      "sourceId": "M2-B05",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/define-requirements-and-a-specification.md",
+      "start": 112,
+      "end": 116,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C12",
+      "sourceId": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "start": 106,
+      "end": 115,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C12",
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "start": 388,
+      "end": 417,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C12",
+      "sourceId": "M2-B07",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/test-completed-work.md",
+      "start": 76,
+      "end": 105,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C12",
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "start": 45,
+      "end": 95,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C13",
+      "sourceId": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "start": 106,
+      "end": 115,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C13",
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "start": 15,
+      "end": 23,
+      "status": "range-retrieved"
+    },
+    {
+      "chapter": "C13",
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "start": 77,
+      "end": 90,
+      "status": "range-retrieved"
+    }
+  ],
+  "webRetrieval": [
+    {
+      "id": "M2-W11",
+      "url": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M2-W01",
+      "url": "https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M3-H01",
+      "url": "https://arxiv.org/abs/2210.03629v1",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M3-H02",
+      "url": "https://arxiv.org/abs/2405.15793v1",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M2-W03",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M2-W05",
+      "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M2-W06",
+      "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M2-W04",
+      "url": "https://arxiv.org/html/2606.04967v1",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M2-W07",
+      "url": "https://www.agiusalexandre.com/blog/2026-09-26-ai-dlc-collaborative-team-bottleneck/",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M2-W16",
+      "url": "https://nodejs.org/api/typescript.html",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M5-SEC01",
+      "url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M5-SEC02",
+      "url": "https://asvs.owasp.org/",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M5-SEC03",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M5-SEC04",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "M5-SEC05",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html",
+      "kind": "web",
+      "status": "retrieved via web tool",
+      "date": "2026-11-05"
+    }
+  ],
+  "similarity": {
+    "method": "Lowercased contiguous 12-word matching, preserving internal apostrophes and hyphens and excluding Markdown URL destinations. Chapters compared with 20 retrieved pinned GitHub files.",
+    "corpusSourceCount": 20,
+    "chapterCount": 14,
+    "results": [
+      {
+        "chapterId": "C01",
+        "matches": []
+      },
+      {
+        "chapterId": "C02",
+        "matches": []
+      },
+      {
+        "chapterId": "C03",
+        "matches": []
+      },
+      {
+        "chapterId": "C04",
+        "matches": []
+      },
+      {
+        "chapterId": "C05",
+        "matches": []
+      },
+      {
+        "chapterId": "C06",
+        "matches": []
+      },
+      {
+        "chapterId": "C07",
+        "matches": []
+      },
+      {
+        "chapterId": "C08",
+        "matches": []
+      },
+      {
+        "chapterId": "C09",
+        "matches": []
+      },
+      {
+        "chapterId": "C10",
+        "matches": []
+      },
+      {
+        "chapterId": "C11",
+        "matches": []
+      },
+      {
+        "chapterId": "C12",
+        "matches": []
+      },
+      {
+        "chapterId": "C13",
+        "matches": []
+      },
+      {
+        "chapterId": "C14",
+        "matches": []
+      }
+    ],
+    "scopeLimit": "No comparison with a proprietary plagiarism corpus or complete competing books. A zero match count is not an originality certification.",
+    "finalCopyeditPass": [
+      {
+        "chapterId": "C01",
+        "matches": 0
+      },
+      {
+        "chapterId": "C02",
+        "matches": 0
+      },
+      {
+        "chapterId": "C03",
+        "matches": 0
+      },
+      {
+        "chapterId": "C04",
+        "matches": 0
+      },
+      {
+        "chapterId": "C05",
+        "matches": 0
+      },
+      {
+        "chapterId": "C06",
+        "matches": 0
+      },
+      {
+        "chapterId": "C07",
+        "matches": 0
+      },
+      {
+        "chapterId": "C08",
+        "matches": 0
+      },
+      {
+        "chapterId": "C09",
+        "matches": 0
+      },
+      {
+        "chapterId": "C10",
+        "matches": 0
+      },
+      {
+        "chapterId": "C11",
+        "matches": 0
+      },
+      {
+        "chapterId": "C12",
+        "matches": 0
+      },
+      {
+        "chapterId": "C13",
+        "matches": 0
+      },
+      {
+        "chapterId": "C14",
+        "matches": 0
+      }
+    ]
+  },
+  "semanticSpotChecks": [
+    "BMAD package identifies version 6.12.4; generated QA and optional TEA are distinct.",
+    "Core installation guide states Node.js 18+ while package manifest requires Node >=24; conflict retained.",
+    "AWS guard source has an explicit disable branch; profiles and overrides qualify enforcement claims.",
+    "AIUP Node stack identifies NestJS, Next.js, Drizzle and PostgreSQL. Implementation and testing skills have distinct roles.",
+    "METR 2025 slowdown and 2026 selection limits are attributed to their separate studies.",
+    "The prior comparison reports single-rater scoring; the book does not import an effectiveness ranking.",
+    "The AI-DLC field account describes zero-exit credential failure; it remains attributed and scoped."
+  ]
+}

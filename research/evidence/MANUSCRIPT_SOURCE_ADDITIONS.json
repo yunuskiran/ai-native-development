@@ -1,0 +1,328 @@
+{
+  "status": "A11 manuscript source additions and supplemental inspections; independent review pending",
+  "sources": [
+    {
+      "sourceId": "M2-G07",
+      "url": "https://github.com/gsd-build/get-shit-done/blob/bdcaab2c752d9a33a1a1ca9acf3a3c81fb991815/README.md",
+      "kind": "github-file",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          1,
+          12
+        ]
+      ],
+      "scope": "Selected passages rechecked for first-draft claims; no installation, outcome reanalysis or broad security audit",
+      "ref": "bdcaab2c752d9a33a1a1ca9acf3a3c81fb991815"
+    },
+    {
+      "sourceId": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "kind": "github-file",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          9,
+          89
+        ],
+        [
+          106,
+          115
+        ]
+      ],
+      "scope": "Selected passages rechecked for first-draft claims; no installation, outcome reanalysis or broad security audit",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc"
+    },
+    {
+      "sourceId": "M2-A03",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/core/hooks/aidlc-plan-approval-guard.ts",
+      "kind": "github-file",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          2391,
+          2397
+        ]
+      ],
+      "scope": "Selected passages rechecked for first-draft claims; no installation, outcome reanalysis or broad security audit",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2"
+    },
+    {
+      "sourceId": "M2-A04",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/14-artifacts-reference.md",
+      "kind": "github-file",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          25,
+          54
+        ]
+      ],
+      "scope": "Selected passages rechecked for first-draft claims; no installation, outcome reanalysis or broad security audit",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2"
+    },
+    {
+      "sourceId": "M2-U03",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-core/skills/spec-review/SKILL.md",
+      "kind": "github-file",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          41,
+          65
+        ]
+      ],
+      "scope": "Selected passages rechecked for first-draft claims; no installation, outcome reanalysis or broad security audit",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960"
+    },
+    {
+      "sourceId": "M2-U07",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/skills/nest-test/SKILL.md",
+      "kind": "github-file",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          22,
+          32
+        ]
+      ],
+      "scope": "Selected passages rechecked for first-draft claims; no installation, outcome reanalysis or broad security audit",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960"
+    },
+    {
+      "sourceId": "M2-U09",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/skills/implement/SKILL.md",
+      "kind": "github-file",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          47,
+          79
+        ]
+      ],
+      "scope": "Selected passages rechecked for first-draft claims; no installation, outcome reanalysis or broad security audit",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960"
+    },
+    {
+      "sourceId": "M2-W04",
+      "url": "https://arxiv.org/html/2606.04967v1",
+      "kind": "web",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          82,
+          122
+        ]
+      ],
+      "scope": "Selected passages rechecked for first-draft claims; no installation, outcome reanalysis or broad security audit"
+    },
+    {
+      "sourceId": "M2-W07",
+      "url": "https://www.agiusalexandre.com/blog/2026-09-26-ai-dlc-collaborative-team-bottleneck/",
+      "kind": "web",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          11,
+          22
+        ],
+        [
+          93,
+          115
+        ]
+      ],
+      "scope": "Selected passages rechecked for first-draft claims; no installation, outcome reanalysis or broad security audit"
+    },
+    {
+      "sourceId": "M2-W16",
+      "url": "https://nodejs.org/api/typescript.html",
+      "kind": "web",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          148,
+          184
+        ]
+      ],
+      "scope": "Selected passages rechecked for first-draft claims; no installation, outcome reanalysis or broad security audit",
+      "versionInspected": "Node.js v26.13.0; canonical URL can change"
+    },
+    {
+      "sourceId": "M5-SEC01",
+      "url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+      "title": "NIST SP 800-218 / SSDF 1.1",
+      "publisher": "NIST",
+      "kind": "web",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          64,
+          76
+        ]
+      ],
+      "claimId": "M5-SEC01-C01",
+      "claim": "Fixed-version high-level practices can be integrated into a lifecycle; no compliance assessment performed",
+      "limits": "Independently summarized primary guidance, not a full-document audit or an application result; no external prompts/figures/code reproduced"
+    },
+    {
+      "sourceId": "M5-SEC02",
+      "url": "https://asvs.owasp.org/",
+      "title": "ASVS overview and release identification",
+      "publisher": "OWASP",
+      "kind": "web",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          18,
+          23
+        ],
+        [
+          59,
+          66
+        ]
+      ],
+      "claimId": "M5-SEC02-C01",
+      "claim": "Overview/purpose and release 5.0.0 only; complete standard not assessed",
+      "limits": "Independently summarized primary guidance, not a full-document audit or an application result; no external prompts/figures/code reproduced"
+    },
+    {
+      "sourceId": "M5-SEC03",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html",
+      "title": "Authorization Cheat Sheet",
+      "publisher": "OWASP",
+      "kind": "web",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          217,
+          225
+        ]
+      ],
+      "claimId": "M5-SEC03-C01",
+      "claim": "Deny-by-default and per-request checks; case application remains proposed",
+      "limits": "Independently summarized primary guidance, not a full-document audit or an application result; no external prompts/figures/code reproduced"
+    },
+    {
+      "sourceId": "M5-SEC04",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html",
+      "title": "Secrets Management Cheat Sheet",
+      "publisher": "OWASP",
+      "kind": "web",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          336,
+          339
+        ],
+        [
+          428,
+          454
+        ]
+      ],
+      "claimId": "M5-SEC04-C01",
+      "claim": "Secret lifecycle and revocation; no exposed credentials inspected",
+      "limits": "Independently summarized primary guidance, not a full-document audit or an application result; no external prompts/figures/code reproduced"
+    },
+    {
+      "sourceId": "M5-SEC05",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html",
+      "title": "LLM Prompt Injection Prevention Cheat Sheet",
+      "publisher": "OWASP",
+      "kind": "web",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          376,
+          379
+        ],
+        [
+          428,
+          430
+        ],
+        [
+          456,
+          473
+        ],
+        [
+          493,
+          508
+        ]
+      ],
+      "claimId": "M5-SEC05-C01",
+      "claim": "Layered controls and action-boundary authorization; no robustness guarantee or copied attack collection",
+      "limits": "Independently summarized primary guidance, not a full-document audit or an application result; no external prompts/figures/code reproduced"
+    }
+  ],
+  "supplementalInspections": [
+    {
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          77,
+          90
+        ]
+      ]
+    },
+    {
+      "sourceId": "M2-A01",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/04-phases-and-stages.md",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          61,
+          82
+        ]
+      ]
+    },
+    {
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-01",
+      "inspectedRanges": [
+        [
+          111,
+          136
+        ],
+        [
+          319,
+          386
+        ],
+        [
+          419,
+          447
+        ]
+      ]
+    }
+  ],
+  "retrievalFailures": [
+    {
+      "url": "https://nodejs.org/docs/latest-v26.x/api/typescript.html",
+      "status": "NOT VERIFIED — tool retrieval failed",
+      "resolution": "Canonical https://nodejs.org/api/typescript.html was inspected and displayed v26.13.0; no claim relies on the failed URL"
+    }
+  ],
+  "limits": "Source statements support documentary claims only. The separate policy-model execution is recorded in POLICY_MODEL_RUN.json; no methodology/application benchmark was executed."
+}

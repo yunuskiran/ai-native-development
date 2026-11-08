@@ -1,0 +1,117 @@
+{
+  "version": "0.3",
+  "prepared": "2026-11-01",
+  "authority": "A08/A09 provisional pilot and AI revision; A10 author continuation explicitly covers C02/C03 drafts, not detailed acceptance or independent review",
+  "gates": {
+    "G2": "Independent human review pending",
+    "G3": "Author and reviewer acceptance pending"
+  },
+  "countConvention": "Original prose, headings, table/list text; exclude review banners, HTML markers, link destinations and table separators; ASCII alphanumeric word groups with internal apostrophes, slash or hyphen retained",
+  "totalWords": 15579,
+  "chapterSampleWords": 14795,
+  "caseCompanionWords": 784,
+  "originalMasterSha256": "cf8d65f94375f59e246ea855587588b988ab4f1c04e09dc15d85e6372ac06cc6",
+  "outlineSha256": "37357bad68dccdd5a74af38e4e5cbeaa0116cf6ca5ddc8142a6114947ae35fe9",
+  "artifacts": [
+    {
+      "path": "manuscript/pilot/01-the-evolution-of-ai-assisted-development.md",
+      "status": "Provisional draft; acceptance pending",
+      "chapterId": "C01",
+      "sectionIds": [
+        "C01-S01",
+        "C01-S02",
+        "C01-S03",
+        "C01-S04",
+        "C01-S05",
+        "C01-S06"
+      ],
+      "words": 1873,
+      "finalChapterTargetWords": 3000,
+      "sha256": "94db5f39c63c14bd1148674c9248359d16ad783df5f717db173428e7bbe1d5de"
+    },
+    {
+      "path": "manuscript/pilot/02-beyond-vibe-coding.md",
+      "status": "First chapter draft; independent review and acceptance pending",
+      "chapterId": "C02",
+      "sectionIds": [
+        "C02-S01",
+        "C02-S02",
+        "C02-S03",
+        "C02-S04",
+        "C02-S05",
+        "C02-S06"
+      ],
+      "words": 3211,
+      "finalChapterTargetWords": 3500,
+      "sha256": "1cfde4cc8f78e58c4c6ef753ff94b9f13612bd93278076d2b8280f2496f6b3c9"
+    },
+    {
+      "path": "manuscript/pilot/03-understanding-ai-driven-methodologies.md",
+      "status": "First chapter draft; independent review and acceptance pending",
+      "chapterId": "C03",
+      "sectionIds": [
+        "C03-S01",
+        "C03-S02",
+        "C03-S03",
+        "C03-S04",
+        "C03-S05",
+        "C03-S06",
+        "C03-S07"
+      ],
+      "words": 4101,
+      "finalChapterTargetWords": 4500,
+      "sha256": "1b4bdbf48fb92a030df3ed9bb0aa2d10aebf516cba82fed8de8b3fe82597cb5e"
+    },
+    {
+      "path": "manuscript/pilot/04-bmad-method-deep-dive.md",
+      "status": "Provisional draft; acceptance pending",
+      "chapterId": "C04",
+      "sectionIds": [
+        "C04-S01",
+        "C04-S02",
+        "C04-S03",
+        "C04-S04",
+        "C04-S05",
+        "C04-S06",
+        "C04-S07"
+      ],
+      "words": 3254,
+      "finalChapterTargetWords": 5500,
+      "sha256": "28095320f7f79362466725a523d06aa7e30ca33d5b1e2a44ea0633d7a4c7b151"
+    },
+    {
+      "path": "manuscript/pilot/10-choosing-the-right-methodology.md",
+      "status": "Provisional draft; acceptance pending",
+      "chapterId": "C10",
+      "sectionIds": [
+        "C10-S01",
+        "C10-S02",
+        "C10-S03",
+        "C10-S04",
+        "C10-S05",
+        "C10-S06",
+        "C10-S07"
+      ],
+      "words": 2356,
+      "finalChapterTargetWords": 4500,
+      "sha256": "1d6cca9a4c47cc9537f45bc3db67b4289b09b985eacf37ffc7b6bcbdcb24d6b1"
+    },
+    {
+      "path": "manuscript/pilot/case-walkthrough.md",
+      "status": "Design-only walkthrough; not a chapter or trial",
+      "chapterId": null,
+      "sectionIds": [],
+      "words": 784,
+      "finalChapterTargetWords": null,
+      "sha256": "49ee06ac84d4d74fba52bf9a80eef96e9ef5fe0c746594717cd0595027d6407f"
+    }
+  ],
+  "revised": "2026-11-01",
+  "previousVersionSnapshot": "research/evidence/PILOT_V0_2_SNAPSHOT.json",
+  "sourceReceiptFiles": [
+    "research/evidence/M3_SOURCE_RECHECKS.json",
+    "research/evidence/M3_REVISION_SOURCES.json",
+    "research/evidence/M3_CHAPTER_02_03_SOURCES.json"
+  ],
+  "expectedSectionCount": 33
+}

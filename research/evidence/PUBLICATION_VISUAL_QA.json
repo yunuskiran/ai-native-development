@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-05",
+  "printPages": 236,
+  "sampledPages": [
+    1,
+    2,
+    3,
+    4,
+    14,
+    25,
+    41,
+    59,
+    77,
+    96,
+    114,
+    129,
+    146,
+    161,
+    162,
+    189,
+    207,
+    219,
+    228,
+    229,
+    236
+  ],
+  "method": "Poppler PNG rendering and visual inspection of cover, title, imprint, contents, every chapter opening, case table and source cards.",
+  "wordBoundingBoxesChecked": 70091,
+  "wordsOutsideSafeTextBounds": 0,
+  "bboxBoundsPoints": [
+    43.5,
+    14,
+    388.5,
+    629
+  ],
+  "intentionalBlankEndPage": null,
+  "cover": "Full-wrap and digital covers rendered and inspected.",
+  "readingPdfPages": 141,
+  "readingPdfSampledPages": [
+    1,
+    2,
+    3,
+    139
+  ]
+}

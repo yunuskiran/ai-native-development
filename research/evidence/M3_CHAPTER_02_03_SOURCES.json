@@ -1,0 +1,132 @@
+{
+  "status": "C02/C03 primary-passage inspection; independent technical review pending",
+  "accessed": "2026-11-01",
+  "sources": [
+    {
+      "sourceId": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          25,
+          59
+        ]
+      ],
+      "scope": "Phase decisions, artifacts and context-strategy description; benefits are source claims, not measured outcomes",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc"
+    },
+    {
+      "sourceId": "M2-A01",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/04-phases-and-stages.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          18,
+          45
+        ]
+      ],
+      "scope": "Named implementation phases only; do not equate phase counts across concept and implementation",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2"
+    },
+    {
+      "sourceId": "M2-W03",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+      "kind": "web",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          64,
+          92
+        ]
+      ],
+      "scope": "Attributed SDD policy vocabulary; no current-tool capability inference"
+    },
+    {
+      "sourceId": "M2-W05",
+      "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+      "kind": "web",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          25,
+          57
+        ]
+      ],
+      "scope": "Reported study design and bounded result; no reanalysis or four-framework comparison"
+    },
+    {
+      "sourceId": "M2-W06",
+      "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+      "kind": "web",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          25,
+          52
+        ]
+      ],
+      "scope": "Selection and timing limitations of the later study; no clean current-productivity estimate"
+    }
+  ],
+  "supplementalInspections": [
+    {
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          48,
+          66
+        ],
+        [
+          475,
+          494
+        ]
+      ],
+      "scope": "Artifact flow and change/reverse-engineering policies; extends earlier pilot passage coverage without replacing its receipts"
+    }
+  ],
+  "chapterClaimMap": [
+    {
+      "chapter": "C02",
+      "sourceIds": [
+        "M2-B03",
+        "M2-W05",
+        "M2-W06"
+      ],
+      "claimTypes": [
+        "Small-change documentary allowance",
+        "Bounded external study report",
+        "Study-design limitation"
+      ]
+    },
+    {
+      "chapter": "C03",
+      "sourceIds": [
+        "M2-B02",
+        "M2-B05",
+        "M2-G01",
+        "M2-A01",
+        "M2-A02",
+        "M2-U01",
+        "M2-W01",
+        "M2-W03"
+      ],
+      "claimTypes": [
+        "Pinned process mechanisms",
+        "Attributed SDD vocabulary",
+        "Author-selected taxonomy and case design kept separate from outcome evidence"
+      ]
+    }
+  ],
+  "limits": "These are rechecks/additions to pilot coverage from the existing M2 inventory, not new independent studies. No application, comparative benchmark or historical-origin verification was performed."
+}

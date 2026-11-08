@@ -1,0 +1,361 @@
+{
+  "version": "first-pass-0.1",
+  "archivedOn": "2026-11-02",
+  "manifest": {
+    "version": "first-pass-0.1",
+    "prepared": "2026-11-01",
+    "authority": "A11 autonomous manuscript preparation; not human gate acceptance",
+    "evidenceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "gates": {
+      "G2": "Independent technical review pending",
+      "G3": "Detailed author/reviewer acceptance pending",
+      "G4": "No methodology/application trial; thirteen readiness checks open",
+      "G5": "All fourteen chapters have provisional prose; depth/word targets and developmental review pending"
+    },
+    "sourceReceiptFiles": [
+      "research/evidence/M3_SOURCE_RECHECKS.json",
+      "research/evidence/M3_REVISION_SOURCES.json",
+      "research/evidence/M3_CHAPTER_02_03_SOURCES.json",
+      "research/evidence/MANUSCRIPT_SOURCE_ADDITIONS.json"
+    ],
+    "expectedSectionCount": 95,
+    "originalMasterSha256": "cf8d65f94375f59e246ea855587588b988ab4f1c04e09dc15d85e6372ac06cc6",
+    "outlineSha256": "37357bad68dccdd5a74af38e4e5cbeaa0116cf6ca5ddc8142a6114947ae35fe9",
+    "countConvention": "Original prose, headings, table/list text; exclude review banners, HTML markers, link destinations and table separators; ASCII alphanumeric word groups with internal apostrophes, slash or hyphen retained",
+    "chapterProseWords": 34114,
+    "companionWords": 784,
+    "totalWords": 34898,
+    "plannedMainTextWords": 66500,
+    "artifacts": [
+      {
+        "path": "manuscript/pilot/01-the-evolution-of-ai-assisted-development.md",
+        "chapterId": "C01",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C01-S01",
+          "C01-S02",
+          "C01-S03",
+          "C01-S04",
+          "C01-S05",
+          "C01-S06"
+        ],
+        "words": 1873,
+        "finalChapterTargetWords": 3000,
+        "sha256": "94db5f39c63c14bd1148674c9248359d16ad783df5f717db173428e7bbe1d5de"
+      },
+      {
+        "path": "manuscript/pilot/02-beyond-vibe-coding.md",
+        "chapterId": "C02",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C02-S01",
+          "C02-S02",
+          "C02-S03",
+          "C02-S04",
+          "C02-S05",
+          "C02-S06"
+        ],
+        "words": 3211,
+        "finalChapterTargetWords": 3500,
+        "sha256": "1cfde4cc8f78e58c4c6ef753ff94b9f13612bd93278076d2b8280f2496f6b3c9"
+      },
+      {
+        "path": "manuscript/pilot/03-understanding-ai-driven-methodologies.md",
+        "chapterId": "C03",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C03-S01",
+          "C03-S02",
+          "C03-S03",
+          "C03-S04",
+          "C03-S05",
+          "C03-S06",
+          "C03-S07"
+        ],
+        "words": 4101,
+        "finalChapterTargetWords": 4500,
+        "sha256": "1b4bdbf48fb92a030df3ed9bb0aa2d10aebf516cba82fed8de8b3fe82597cb5e"
+      },
+      {
+        "path": "manuscript/pilot/04-bmad-method-deep-dive.md",
+        "chapterId": "C04",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C04-S01",
+          "C04-S02",
+          "C04-S03",
+          "C04-S04",
+          "C04-S05",
+          "C04-S06",
+          "C04-S07"
+        ],
+        "words": 3254,
+        "finalChapterTargetWords": 5500,
+        "sha256": "28095320f7f79362466725a523d06aa7e30ca33d5b1e2a44ea0633d7a4c7b151"
+      },
+      {
+        "path": "manuscript/pilot/05-gsd-deep-dive.md",
+        "chapterId": "C05",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C05-S01",
+          "C05-S02",
+          "C05-S03",
+          "C05-S04",
+          "C05-S05",
+          "C05-S06",
+          "C05-S07"
+        ],
+        "words": 2585,
+        "finalChapterTargetWords": 5500,
+        "sha256": "d0207b27f9fba0c9348a06738c42a6c30ae8fab1ee678f0ae2408ca13d6d1765"
+      },
+      {
+        "path": "manuscript/pilot/06-aws-ai-dlc-deep-dive.md",
+        "chapterId": "C06",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C06-S01",
+          "C06-S02",
+          "C06-S03",
+          "C06-S04",
+          "C06-S05",
+          "C06-S06",
+          "C06-S07"
+        ],
+        "words": 2470,
+        "finalChapterTargetWords": 5500,
+        "sha256": "c8e7cff68190d7553695e188812d89bfdb57f633025e29e39bdec8da7193b87e"
+      },
+      {
+        "path": "manuscript/pilot/07-ai-unified-process-deep-dive.md",
+        "chapterId": "C07",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C07-S01",
+          "C07-S02",
+          "C07-S03",
+          "C07-S04",
+          "C07-S05",
+          "C07-S06",
+          "C07-S07"
+        ],
+        "words": 2404,
+        "finalChapterTargetWords": 5500,
+        "sha256": "09829812eb1f85b33bd08b3865a06cfc67de3ac555f0cb0474dc8dcf91c83977"
+      },
+      {
+        "path": "manuscript/pilot/08-spec-driven-development-as-an-approach.md",
+        "chapterId": "C08",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C08-S01",
+          "C08-S02",
+          "C08-S03",
+          "C08-S04",
+          "C08-S05",
+          "C08-S06",
+          "C08-S07"
+        ],
+        "words": 2049,
+        "finalChapterTargetWords": 4500,
+        "sha256": "7d863a86d0bde8e87c1a6cda5172a2822c4ace9bbd6d2d34d36b77b7e37c3a6f"
+      },
+      {
+        "path": "manuscript/pilot/09-comparing-the-methodologies.md",
+        "chapterId": "C09",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C09-S01",
+          "C09-S02",
+          "C09-S03",
+          "C09-S04",
+          "C09-S05",
+          "C09-S06"
+        ],
+        "words": 1928,
+        "finalChapterTargetWords": 5000,
+        "sha256": "e66eee05db9b699edb6de531b9e5ba27d09d1ea7d35b99011987b4ed468a7f94"
+      },
+      {
+        "path": "manuscript/pilot/10-choosing-the-right-methodology.md",
+        "chapterId": "C10",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C10-S01",
+          "C10-S02",
+          "C10-S03",
+          "C10-S04",
+          "C10-S05",
+          "C10-S06",
+          "C10-S07"
+        ],
+        "words": 2356,
+        "finalChapterTargetWords": 4500,
+        "sha256": "1d6cca9a4c47cc9537f45bc3db67b4289b09b985eacf37ffc7b6bcbdcb24d6b1"
+      },
+      {
+        "path": "manuscript/pilot/11-real-world-case-study-building-a-saas.md",
+        "chapterId": "C11",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C11-S01",
+          "C11-S02",
+          "C11-S03",
+          "C11-S04",
+          "C11-S05",
+          "C11-S06",
+          "C11-S07",
+          "C11-S08"
+        ],
+        "words": 2835,
+        "finalChapterTargetWords": 8000,
+        "sha256": "fc89deeb495f88b6ebef5b0e14537f4657feca818d8bf557904f56f7b4ad9c5e"
+      },
+      {
+        "path": "manuscript/pilot/12-testing-security-and-production-readiness.md",
+        "chapterId": "C12",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C12-S01",
+          "C12-S02",
+          "C12-S03",
+          "C12-S04",
+          "C12-S05",
+          "C12-S06",
+          "C12-S07"
+        ],
+        "words": 2179,
+        "finalChapterTargetWords": 5500,
+        "sha256": "e80c773db69294287bdac64996fca0d7019db62bf8d706d82ef8b44a0fe774ae"
+      },
+      {
+        "path": "manuscript/pilot/13-common-failures-and-anti-patterns.md",
+        "chapterId": "C13",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C13-S01",
+          "C13-S02",
+          "C13-S03",
+          "C13-S04",
+          "C13-S05",
+          "C13-S06",
+          "C13-S07"
+        ],
+        "words": 1492,
+        "finalChapterTargetWords": 3500,
+        "sha256": "56d458cab4fefd2e99ee98464191ef12b675cd02458fbd6e9c650970b621c659"
+      },
+      {
+        "path": "manuscript/pilot/14-the-future-of-ai-native-engineering.md",
+        "chapterId": "C14",
+        "status": "Provisional first-pass prose; independent review and chapter acceptance pending",
+        "sectionIds": [
+          "C14-S01",
+          "C14-S02",
+          "C14-S03",
+          "C14-S04",
+          "C14-S05",
+          "C14-S06"
+        ],
+        "words": 1377,
+        "finalChapterTargetWords": 2500,
+        "sha256": "23869447780c975bb5e85466f9ff13eece28085111d1d464be86f5ed85b9480e"
+      },
+      {
+        "path": "manuscript/pilot/case-walkthrough.md",
+        "chapterId": null,
+        "status": "Historical design-only pilot companion; full qualitative case is C11",
+        "sectionIds": [],
+        "words": 784,
+        "finalChapterTargetWords": null,
+        "sha256": "49ee06ac84d4d74fba52bf9a80eef96e9ef5fe0c746594717cd0595027d6407f"
+      }
+    ],
+    "ancillaryArtifacts": [
+      {
+        "path": "examples/approval-policy/approval-policy.ts",
+        "sha256": "41c065abfebda8058b311bd5bcf29fb144ee5bf8a12f4a445904ff0e103cedf9"
+      },
+      {
+        "path": "examples/approval-policy/approval-policy.test.ts",
+        "sha256": "963dc1c7df8debe47376dbf09bd23b6e5373ff961e9ffd67f002072f59f1765c"
+      },
+      {
+        "path": "examples/approval-policy/package.json",
+        "sha256": "98ffb7e2d086d2ccdf09996ac44174f1d000af11fbdf6e1fc6035d32b1af89a4"
+      },
+      {
+        "path": "examples/approval-policy/README.md",
+        "sha256": "cd5b242085b0be56f02c19db9c6c080d31d3aac7af062abe3c43999dac0180b6"
+      },
+      {
+        "path": "research/evidence/POLICY_MODEL_RUN.json",
+        "sha256": "b429f6581c14d6b5c2c708ff08368ef149d332a91e6404e62b25fb668b81a368"
+      },
+      {
+        "path": "research/evidence/POLICY_MODEL_RUN.tap",
+        "sha256": "4bfb52998f89a4b2c4549c1bbbe13aa927b0ba2c9651ce8f5122a6ed14872522"
+      }
+    ],
+    "executionRecords": [
+      "research/evidence/POLICY_MODEL_RUN.json"
+    ],
+    "previousPilotSnapshot": "research/evidence/PILOT_V0_3_SNAPSHOT.json",
+    "linkCheckPaths": [
+      "manuscript/pilot/01-the-evolution-of-ai-assisted-development.md",
+      "manuscript/pilot/02-beyond-vibe-coding.md",
+      "manuscript/pilot/03-understanding-ai-driven-methodologies.md",
+      "manuscript/pilot/04-bmad-method-deep-dive.md",
+      "manuscript/pilot/05-gsd-deep-dive.md",
+      "manuscript/pilot/06-aws-ai-dlc-deep-dive.md",
+      "manuscript/pilot/07-ai-unified-process-deep-dive.md",
+      "manuscript/pilot/08-spec-driven-development-as-an-approach.md",
+      "manuscript/pilot/09-comparing-the-methodologies.md",
+      "manuscript/pilot/10-choosing-the-right-methodology.md",
+      "manuscript/pilot/11-real-world-case-study-building-a-saas.md",
+      "manuscript/pilot/12-testing-security-and-production-readiness.md",
+      "manuscript/pilot/13-common-failures-and-anti-patterns.md",
+      "manuscript/pilot/14-the-future-of-ai-native-engineering.md",
+      "manuscript/pilot/case-walkthrough.md",
+      "examples/approval-policy/README.md",
+      "manuscript/README.md",
+      "manuscript/SOURCE_NOTES.md",
+      "research/MANUSCRIPT_REPORT.md",
+      "research/MANUSCRIPT_REVIEW.md",
+      "README.md",
+      "TASKS.md",
+      "ROADMAP.md",
+      "QUALITY_GATES.md",
+      "SOURCES.md",
+      "research/WORD_BUDGET.md",
+      "research/DECISION_LOG.md"
+    ]
+  },
+  "documentChecks": {
+    "status": "PASS — document integrity only",
+    "artifacts": 15,
+    "words": 34898,
+    "sections": 95,
+    "githubCitationOccurrences": 87,
+    "webCitationOccurrences": 20,
+    "distinctInspectedSources": 35,
+    "localLinkPaths": 151,
+    "linkCheckScope": "registered manuscript and active project documents",
+    "originalMaster": "unchanged",
+    "approvedOutline": "unchanged",
+    "experimentReadiness": "13 unchecked",
+    "independentReview": "pending, not evaluated by this script",
+    "registeredExecutionRecords": 1,
+    "checkedOn": "2026-11-02",
+    "command": "python3 scripts/check_manuscript.py",
+    "scope": "Registered chapter/ancillary integrity, active-document link paths and evidence bookkeeping; not source truth or independent review"
+  },
+  "changedChapterTexts": {
+    "manuscript/pilot/10-choosing-the-right-methodology.md": "# 10. Choosing the Right Methodology\n\n> M3 pilot draft v0.2 · 2026-11-01 · C10 · AI revision complete; independent review pending. Seven sections at sample depth, below the final 4,500-word allocation. Scenarios and recommendations are editorial analysis under stated assumptions. Source-specific statements refer to the cited pins; no adoption outcome is claimed.\n\n<!-- C10-S01 -->\n## Describe the project before naming a method\n\nBegin selection with a decision the team needs to make well. Describe the work before creating a shortlist.\n\nRequirements may disappear between discussion and implementation. A maintenance queue may be burdened by documents that no one revisits. An established service may need traceable policy changes. Each hypothetical condition calls for a different evaluation question.\n\nFor the vendor-access service, our immediate question is narrow: can a selected process carry a tenant-local approval rule from agreed intent through implementation and acceptance, then preserve it during a policy change? The question does not require us to decide which framework is best for every service the organization might build.\n\nWrite down the conditions that could change the answer. Is this a new codebase or an existing one? Who can settle product ambiguity? How long must the service be maintained? What may the assistant change? Which host and runtime can the team actually use? Which obligations would make an otherwise plausible output unacceptable?\n\nA useful project description is specific enough to disqualify an attractive candidate. “We use TypeScript” is too broad to establish compatibility. “We must retain this existing persistence and HTTP boundary, and cannot introduce another application stack during the exercise” is a real constraint. A framework with a stack-specific adapter would then need a separately assessed route.\n\nState these conditions before reading a candidate's positioning. Otherwise it is easy to rewrite the problem in the vocabulary of the first polished workflow we encounter. The selection record should survive a change in popularity or branding because its reasons concern the team's work.\n\n<!-- C10-S02 -->\n## Identify non-negotiable decision duties\n\nIn the common case, no self-approval and tenant isolation are required behavior. A named ceremony is not. We need a way to establish the rule, implement it, check it and preserve the decision when the code changes. There may be several legitimate ways to arrange that work.\n\nSeparate these duties from preferences. The team may prefer Markdown artifacts, a particular command style or a small number of files. Those preferences can affect adoption cost. They cannot replace the obligation to show that a foreign-tenant actor cannot obtain another customer's request under the agreed interface policy.\n\nThe duties also need owners. A model can propose a policy but cannot supply missing organizational authority. A workflow can request approval, but the selected configuration and operator behavior determine what approval means in practice. An acceptance owner needs to know which decisions were actually reviewed, by whom, and against which requirement.\n\nFor a small team, ownership may overlap. Record the overlap and its limits. If the implementing engineer also prepares the only tests, call them implementation tests. Additional AI review may be helpful, but calling it independent human verification would overstate the arrangement.\n\nOnce these duties are explicit, ceremony becomes something to justify. A document earns its place when it carries a decision, supports a check or helps a later change. If it has no such role in the proposed evaluation, ask whether it belongs in that path. Equally, removing a document requires deciding where its useful information will live.\n\n<!-- C10-S03 -->\n## Filter candidates with evidence\n\nChapter 9's comparison supplies mechanisms and gaps, not a league table. Selection should use those findings as constraints and questions. A supported documentary capability may justify investigating a profile. A demonstrated incompatibility may rule out that profile under current constraints. An unknown should remain an unknown until the team obtains the evidence it needs.\n\nFor example, the inspected GSD Core installation guide says Node 18 or later, while the same-pin package manifest declares Node 24 or later and npm 10 or later. That discrepancy does not establish that installation will fail. It does establish that the prose requirement alone is insufficient for an installation decision. A candidate environment must be tested and the actual package identity recorded. [Installation guide](https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/install-on-your-runtime.md#L1-L10), [package engines](https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/package.json#L68-L74)\n\nThe inspected AWS workflow implementation makes profile choice consequential. Its Classic and Express descriptions differ in stages, artifacts, reviewer behavior and guard settings; some human-presence or approval duties remain even where particular guards stand aside. “Uses AI-DLC” therefore leaves too much unspecified for selection or reproduction. [Pinned workflow profiles, lines 45–95](https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md#L45-L95)\n\nAIUP supplies another kind of boundary. The inspected combined Node adapter targets NestJS, Drizzle, PostgreSQL and a Next.js frontend. Its workflow also says this adapter does not yet supply an equivalent of the coverage auditor described for certain other adapters. That is an adapter-specific qualification, not evidence that specifications cannot be reviewed in a Node project. [Node adapter scope](https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/README.md#L9-L26), [coverage-auditor boundary](https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md#L388-L417)\n\nThese examples show why a weighted total would be premature. A high score for documentation cannot cancel an incompatible mandatory stack. A low-confidence portability judgment should not become a numerical penalty for a capability we did not test. Record the constraint, the relevant evidence and what would resolve the uncertainty.\n\nA useful candidate disposition has four possible states: investigate, conditionally retain, exclude for a stated constraint, or insufficient evidence. An unknown can matter differently for different duties. Unmeasured long-term benefit may be acceptable during exploration; an unknown mandatory runtime may block an executable pilot. Name the profile, the affected decision and the evidence needed to proceed.\n\n<!-- C10-S04 -->\n## Work through contrasting scenarios\n\nThe following scenarios are editorial examples. They identify what we would evaluate under each set of conditions. They are not reports of teams that adopted a method successfully.\n\n### A tiny, well-understood repair\n\nAssume one developer understands a small defect, the relevant code is available, and the change does not alter a business policy or persistent data. We would begin with the smallest path that preserves the regression obligation and a reviewable diff. Full-method adoption would need a separate reason.\n\nBMAD's inspected guidance permits a trivial direct edit and describes a bounded Build route for other small changes. This is evidence against forcing its full planning inventory onto every repair. It does not tell us how much effort our repair will take. [Small-change guidance, lines 16–25](https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md#L16-L25)\n\nThe trial question is whether the selected path finds and preserves the relevant boundary with acceptable effort. We would stop expanding the process when additional activities no longer address an identified uncertainty. If investigation reveals a policy change, the assumptions of this tiny-repair scenario no longer hold.\n\n### A feature whose intent is still uncertain\n\nAssume the team agrees it needs vendor approvals but has not decided who may approve or what happens to existing requests after a policy change. Starting implementation would let technical output settle product policy by default.\n\nWe would first evaluate how a candidate helps expose and record those choices. The immediate deliverable is an agreed, bounded intent and a list of unresolved questions. A successful planning conversation would not yet establish an implementation result. If a proposed path generates extensive stories while the approval rule remains unresolved, the team has a reason to revise the path before writing more artifacts.\n\n### A change in an established service\n\nAssume the service has current conventions and data that must be preserved. The first evaluation duty is discovery: which behavior exists, which behavior is intended to change, and which historical documents remain authoritative?\n\nWe would investigate a candidate's existing-code and artifact-maintenance path, while requiring the implementation to respect the chosen application boundary. An adapter that assumes a different stack may require adaptation work; that work belongs in the cost record. We would not call it free portability merely because the language matches.\n\nThe episode should include a policy transition such as CS-13. A candidate that produces a convincing new endpoint but leaves the treatment of existing requests undecided has not answered this scenario's main question.\n\n### Work with stronger review duties\n\nAssume acceptance requires named decision owners, retained evidence and a review independent of implementation. We would filter profiles by whether their actual configuration can support those duties, and then inspect execution records. Framework terminology cannot certify that a review is independent or that an artifact is complete.\n\nA manual review path may be entirely legitimate if it is explicit and resourced. An automated check may help, but its scope must match the claim. Under the inspected AIUP Node adapter, for example, the coverage-auditor limitation must remain visible rather than borrowing an assurance statement from a different adapter. This scenario does not establish compliance with any external regulation.\n\n<!-- C10-S05 -->\n## Adapt practices without losing ownership\n\nA team may want the planning path from one framework and a specification practice discussed elsewhere. That is a possible process design, but it creates new ownership questions. Which artifact is authoritative? Who may change it? What happens when the story and specification disagree? Which check establishes that downstream work has caught up?\n\nBMAD's selected specification guidance designates `bmad-spec` as the writer of `SPEC.md` and directs updates through that skill. Adding a second workflow that edits the file directly would conflict with the documented maintenance rule. An adaptation must resolve that conflict rather than describe both policies as simultaneously in force. [Specification ownership, lines 112–116](https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/define-requirements-and-a-specification.md#L112-L116)\n\nBegin an adaptation by naming the problem it solves. Then assign one authoritative location for each decision and define the handoff. Preserve the native artifacts needed to understand the original process, or document exactly what has been replaced. If the adaptation changes mandatory behavior, describe the evaluated process as an adaptation; results from it should not automatically become claims about the unmodified framework.\n\nSpec-Driven Development belongs in this discussion as an approach to organizing intent and change. Giving it a chapter does not require a fifth experimental arm. The relevant selection question is which specification policy the team needs and how that policy interacts with the chosen framework's lifecycle.\n\n<!-- C10-S06 -->\n## Pilot, measure learning and define an exit\n\nA reversible pilot should answer one bounded question. For the common case, one candidate question is: can the selected path carry CS-04 and CS-05 into a reviewable decision implementation while retaining CS-03's tenant boundary? The full case contains additional obligations; this question defines a smaller learning scope, not permission to omit them from final acceptance.\n\nBefore a run, record the exact profile, baseline, host/model settings, permitted interventions, independent checks and resource ceiling. If a field is unresolved, the trial is not reproducible yet. Setup and adaptation effort belong in the record alongside active implementation effort. Human waiting, agent work and elapsed duration are different observations; combining them into an unexplained speed number hides the allocation of work.\n\nDefine exit conditions in advance. Stop the trial if the environment cannot be reproduced, required checks cannot be executed, an unresolved product decision would change the task, or the agreed resource ceiling is reached. Preserve the partial output and the reason. A stopped run can reveal an adoption obstacle; it should not quietly disappear from the comparison.\n\nSuccess criteria should concern the question. The trial might establish that required artifacts can be linked and the independent checks executed under the selected configuration. It would not, by itself, establish a long-term maintenance benefit or predict another team's productivity. The team should name the additional observation that would justify expanding the evaluation.\n\nThis book has not executed that pilot. The companion [case walkthrough](case-walkthrough.md) describes the proposed evidence boundary. The readiness checklist and later run records must supply the execution evidence.\n\n<!-- C10-S07 -->\n## Write and revisit the decision\n\nThe selection deliverable is a short decision record that another engineer can challenge. Use the following original template:\n\n| Field | Required entry |\n|---|---|\n| Decision question | One bounded problem the evaluation is intended to resolve |\n| Context and constraints | Codebase, ownership, lifespan, application/host constraints and required acceptance duties |\n| Candidates | Exact source/package/profile/module scope; tool context recorded separately |\n| Evidence | Source passages or run records, each with its limited interpretation |\n| Disposition | Investigate, retain conditionally, exclude for a specific constraint, or insufficient evidence |\n| Costs and uncertainties | Known adaptation work and unmeasured effort; unresolved compatibility or review limits |\n| Pilot contract | Baseline, checks, resource ceiling, permitted interventions and stop conditions |\n| Owner and revisit trigger | Who decides; which observation or changed constraint reopens the choice |\n\nFor our book, the present disposition is to retain four framework subjects for research and controlled evaluation, with SDD treated across them. BMAD's pinned source supplies the method pilot prose. That writing choice does not appoint BMAD as the production process for the SaaS or resolve the remaining GSD edition, package, host and stack choices.\n\nHere is a populated example for the policy-change episode. It is an editorial decision exercise, not an approved run contract:\n\n| Field | Example entry |\n|---|---|\n| Decision question | Which profile should enter a bounded evaluation of the high-risk approval-policy change? |\n| Fixed intent | New high-risk v2 requests need two distinct eligible approvers; existing v1 requests keep v1 semantics; tenant isolation and no self-approval remain required |\n| Starting condition | The same externally prepared baseline for every arm; TypeScript / Node.js family only, with exact stack and host still open |\n| BMAD candidate | Investigate the inspected specification/Build path; check whether the version-binding rule reaches the implementation record and acceptance evidence |\n| GSD candidate | Retain for investigation; settle edition scope and the guide/manifest runtime discrepancy before an install-based trial |\n| AWS AI-DLC candidate | Retain for investigation; name the implementation, profile and guard configuration rather than treat the lifecycle label as the complete intervention |\n| AIUP candidate | Retain for investigation; verify whether the selected adapter fits the common stack and assign an explicit coverage-review route |\n| Current decision | Prepare comparable profiles and checks; do not name a winner or start measured runs while the mandatory inputs remain unresolved |\n| Revisit trigger | A reviewed environment and acceptance contract, or evidence that a candidate cannot satisfy a fixed constraint without changing the experiment |\n\nThe table turns uncertainty into work. GSD needs a compatibility answer, AWS needs a configuration identity, AIUP needs an adapter/review route, and BMAD needs a checkable artifact path. These are different questions, not equal numerical penalties. A team with already fixed constraints could reach a different shortlist; this example preserves the choices the book has actually made.\n\nA later decision can change without invalidating this record. A resolved compatibility conflict, a different application constraint or an actual pilot observation may alter the choice. Record the new evidence and preserve the earlier reasoning. The purpose of selection is to make a defensible next commitment with a clear way to learn from it.\n",
+    "manuscript/pilot/11-real-world-case-study-building-a-saas.md": "# 11. Real-World Case Study: Building a SaaS\n\n> First draft v0.1 · 2026-11-01 · C11 · **Qualitative artifact walkthrough, not an executed benchmark.** “Real-World” refers to realistic business constraints; actors and data are synthetic. No application, installed framework profile, frozen baseline or independent executable oracle exists. Application acceptance remains Not run. A separately executed local policy-model example is described below. Independent review remains pending; this draft is below the final allocation.\n\n<!-- C11-S01 -->\n## Scope, realism and approved decisions\n\nA useful case needs more than an appealing feature. It should expose decisions that different processes have to carry, boundaries that a positive-path demonstration can miss, and changes that test whether the original intent remains recoverable. Vendor-access approval supplies those conditions without requiring a live business deployment.\n\nThe service records a request for temporary vendor access, an eligible decision and its history. It does not grant access in an external system. There are two synthetic customer tenants, overlapping roles and a later policy change. The author selected TypeScript / Node.js and accepted this domain/design direction. No web framework, database, model or host has been selected as an executed common stack.\n\nThe complete design authority is the [case specification](../../CASE_STUDY_SPEC.md). It distinguishes accepted direction from unresolved interfaces and future acceptance checks. This chapter explains how to walk that design through the selected source mechanisms. It does not turn a paper design into an implementation result.\n\nThe business model needs Tenant, User, Membership/Role, VendorAccessRequest, ApprovalDecision, PolicyVersion and AuditEvent concepts. These names describe responsibilities, not an imposed ORM schema or class hierarchy. Each method remains free to organize native planning artifacts and a future implementation within the agreed constraints.\n\nA request begins pending after valid creation. An eligible different tenant member can approve or reject according to its bound policy. A rejection while pending is terminal. Approval becomes terminal when the policy's required distinct approvals are present. Public business operations cannot rewrite accepted decision history. Those are expectations to realize and check later.\n\nRealistic constraints include tenant isolation, current membership, no self-approval, retries, concurrency and durability. Real identity federation, live provisioning, billing, email, production hosting and regulatory certification are excluded. The narrow scope lets us reason about meaningful behavior while keeping the evidence claim local and explicit.\n\nThe missing application/framework execution layer is material. We cannot report SaaS build success, defect counts, elapsed times or framework effectiveness. A transparent qualitative walkthrough can still show which questions and artifact relationships a reader should inspect. It also identifies the concrete work required before a measured comparison would be credible.\n\n<!-- C11-S02 -->\n## Requirements, fixtures and acceptance oracle\n\nMira requests access in tenant A. Leon and Priya are eligible approvers in A. Ozan belongs to B. A role-overlap variant gives Mira approver and administrator roles. A revoked member tests current eligibility rather than a stale role assumption. These are proposed fixture roles; no database has been seeded.\n\nUse a controllable clock and synthetic identifiers. A valid creation expiry is after the controlled creation time. Keep unrelated checks within a valid time range so an expiry failure does not hide the intended authorization or state-machine question. Behavior after expiry at decision time remains an interface/product detail to settle rather than infer silently.\n\nEach negative check needs a meaningful positive control. Foreign-tenant access requires a record that actually exists in A and an A actor who can obtain the permitted view. Self-approval requires a pending request and a requester who otherwise holds sufficient roles. A completed or nonexistent request could deny the action for an irrelevant reason.\n\nThe proposed requirement/check inventory is:\n\n| ID | Business obligation | Proposed acceptance probe — all Not run |\n|---|---|---|\n| CS-01 | Established identity and tenant membership | Valid member versus missing/invalid identity and non-member |\n| CS-02 | Complete valid creation | Future expiry and valid content versus invalid/missing fields without partial state |\n| CS-03 | Tenant-isolated reads, lists and searches | Existing A record read/list/search by A versus B, including direct identifiers |\n| CS-04 | Current eligible approver | Same-tenant approver versus revoked/foreign/requester-only actor |\n| CS-05 | No self-approval with overlapping roles | Pending request, requester with approver/admin roles, and separate eligible-actor control |\n| CS-06 | One eligible approval under base policy | Valid v1 decision completes; invalid actions do not contribute |\n| CS-07 | Consistent terminal behavior | Pending rejection/approval, then prohibited conflicting terminal changes |\n| CS-08 | Idempotent retries | Same key/payload repetition and conflicting key reuse under the future frozen contract |\n| CS-09 | Concurrency preserves policy | Competing decisions and duplicate submissions with resulting state/history inspected |\n| CS-10 | Durable tenant-scoped audit | Restart, permitted history read, foreign-history read and mutation attempt |\n| CS-11 | Scoped role administration | Local changes, foreign membership denial and preserved self-approval exclusion |\n| CS-12 | Two distinct high-risk v2 approvers | First leaves pending, second distinct completes, repeated first does not advance |\n| CS-13 | Explicit version transition | New v2 versus existing v1 and standard-risk versus high-risk |\n| CS-14 | No prohibited data/secret leakage | Error/log inspection under the selected disclosure policy |\n| CS-15 | Predetermined boundary repair | Known failing baseline probe before repair and retained regression evidence afterward |\n\nThe oracle is the reviewed decision procedure that relates these expectations to observations. It includes fixtures, assertions and adjudication rules for ambiguous results. It must be independent of the implementation's accidental behavior. A generated test that repeats a defect is not a valid external expectation.\n\nSeveral details remain unfrozen: exact interface, response/disclosure policy, idempotency-key scope/retention, error representation and persistence/concurrency design. This chapter does not invent those decisions to make the checklist appear executable. A measured exercise must settle them before exposing each framework to the task.\n\nRole administration also needs episode scope. E1's bounded feature can use prepared membership fixtures without implementing a complete admin interface. If administration is added to scored work, add it uniformly before runs. The common specification can cover more product behavior than one episode implements.\n\n<!-- C11-S03 -->\n## Freeze profiles and per-episode baselines\n\nA documentary pin identifies the instructions inspected. An experimental freeze requires more: actual package contents, host/model conditions, enabled modules, application stack, baseline code, fixtures, checks and allowed interventions. None of those additional controls should be inferred from a repository URL.\n\nThe working source identities are:\n\n| Subject | Documentary source identity | Execution disposition |\n|---|---|---|\n| BMAD | `bab9082c3e884e0d72c759bcd1a6d90bcc01be84` | Native path/module/host and installed artifact unfrozen |\n| GSD Core | `72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc` | Contemporary lineage scope; runtime conflict and package identity unresolved |\n| AWS workflow | `3939a8b9182f2e4153b92028057a7be74e0684c2` | Profile, guard and local/operations route unfrozen |\n| AIUP | `3ad51b0707e9bed6e54b9de46ebc2f28d7afa960` | Core/Node candidate; common stack and coverage route unresolved |\n\nThese are the sources used in chapters 4–7, not four completed installations. The [source receipts](../../research/evidence/SOURCE_RECEIPTS.json) preserve their provenance and inspection limits. All thirteen [experiment readiness checks](../../research/EXPERIMENT_READINESS.md) remain open.\n\nEach episode needs a controlled starting state. E1 starts from one neutral scaffold. E2 starts from one externally prepared working baseline with v1 behavior. E3 starts from one prepared baseline with a predetermined tenant-boundary defect. No such code baseline exists here, so there is no baseline hash to report.\n\nMatched starting state is different from longitudinal continuity. If every method maintains its own E1 output in E2, the episode includes earlier architectural and quality differences. That is a legitimate different study, but it does not isolate the change procedure on a common application. Keep the designs separate.\n\nNeutrality also needs review. A scaffold with one method's domain layers, hidden helper implementation or preferred generated tests could advantage that arrangement. Define the interface and public obligations without embedding a solution. Record any unavoidable adapter or host asymmetry rather than silently call it controlled.\n\nFor actual runs, predeclare operator familiarization, order, replication, resource ceiling, stopping conditions, missing-data treatment and permitted manual intervention. Count worker calls and setup/adaptation effort. No fixed model access or spending authority has been established by this documentary chapter.\n\n<!-- C11-S04 -->\n## E1: a bounded feature\n\nE1 asks each selected arrangement to address the same base behavior: valid request creation, eligible decision, tenant-local reads/history and the applicable audit/retry/concurrency obligations. Administrative fixtures can remain outside the scored feature scope when declared uniformly.\n\nThe first business review should make the requester exception and tenant boundary explicit. A plausible plan that treats administrator status as universal authority would contradict CS-05. A history endpoint scoped only by request identifier would need examination against CS-03/10. These are diagnostic questions, not defects observed in an implementation.\n\nThe source mechanisms suggest different documentary trails:\n\n| Arrangement | Native trail to inspect for E1 | External question |\n|---|---|---|\n| BMAD | Intent-sized planning, named specification where used, linked Build record | Are accepted constraints present through the chosen small/epic route? |\n| Core | Discussion context, bounded plans, summaries and verification | Do context and checks include constraints the implementation might omit? |\n| AWS workflow | Intent, configured route/unit records, approval and boundary evidence | Which decisions were reviewed and which checks were actually active? |\n| AIUP | Requirements/use case, selected construction inputs and acceptance trail | Are applicable constraints linked and realized through the chosen adapter? |\n\nThe deep dives cite the exact instructions behind these trails. The table is an author-designed inspection plan; it does not report native files generated in four sessions.\n\nFor a future completion record, keep requirement-level states. A positive-path demo may establish one observation while leaving retries and foreign-tenant reads Not run. Do not promote an aggregate “done” label to full acceptance. The external inventory should identify every applicable unmet obligation.\n\nA useful independent check also isolates its cause. The self-approval probe starts pending, with a role-overlap requester and a valid tenant relationship. The positive control uses a separate equivalent request and an eligible different actor. The foreign-read probe uses a known existing A record, not an arbitrary missing identifier.\n\nNo observation is supplied here. E1's documentary result is the inspection trail and the list of decisions that must be settled for execution. Its implementation acceptance, effort and defect outcomes remain Not assessed.\n\n<!-- C11-S05 -->\n## E2: a policy change\n\nThe E2 change introduces two distinct eligible approvals for newly created high-risk requests. Standard-risk v2 requests still need one. Existing v1 requests retain the policy bound when they were created. This is accepted case direction, not a conclusion discovered by a run.\n\nThe proposed behavior matrix makes preserved and changed expectations visible:\n\n| Request fixture | Required interpretation |\n|---|---|\n| Pending v1 high-risk request | One eligible distinct approval can complete under v1 |\n| New v2 standard-risk request | One eligible distinct approval can complete |\n| New v2 high-risk request, no approval | Remains pending until its required distinct approvals are obtained |\n| New v2 high-risk request, one eligible approval | Remains pending; decision/history remain consistent |\n| Same first approver repeats | Does not advance the distinct count; retry details follow the frozen contract |\n| Second distinct eligible approver acts while pending | Can complete if no competing terminal outcome has already prevailed |\n| Already terminal request | A later conflicting action cannot switch its accepted outcome |\n\nThe distinction between a valid partial approval and terminal completion matters. A test that checks only the final approved state could miss an implementation that completes after the first approval. A test that checks only two actor identifiers could miss a revoked or foreign-tenant participant. Preserve both policy and eligibility.\n\nThe native change trail differs by method, but each should carry the same semantics. BMAD's named specification update path can preserve capability references. Core's new decisions/plans and fresh verification can carry the altered rule. AWS's configured route can record the intent and approved construction change. AIUP's requirements/use-case reconciliation can identify downstream effects. Those are documentary paths, not evidence that the paths succeeded.\n\nConcurrency adds valid outcome sets. Under v1, an approval and rejection racing on one pending request must not produce incompatible terminal states or mismatched history. Under high-risk v2, the order of partial approvals and rejection can matter while pending. The acceptance contract must identify legal histories under the chosen semantics rather than demand one arbitrary scheduler order.\n\nRecord actual interleavings or a controlled test strategy when execution exists. A sequential test with two calls does not establish a concurrency result. Likewise, a schema field called `policyVersion` does not prove correct binding; its use in every relevant decision path needs inspection.\n\nE2 is designed to expose maintenance, context and traceability questions. It supplies no measured superiority. A long-lived benefit would require more than this one change and should not be inferred from a neatly updated artifact.\n\n<!-- C11-S06 -->\n## E3: a boundary defect\n\nE3 uses one predetermined defect in a shared prepared baseline. The proposed defect concerns tenant isolation on a defined query path. Its exact implementation and hidden acceptance probes must be fixed before runs; the current project has not created or exercised that seed.\n\nA useful defect report should describe observable behavior without handing one method a more helpful diagnosis. For example, a synthetic report could identify that a B actor obtains data associated with an A request through a particular operation. That is a proposed report shape, not an incident that happened here.\n\nThe diagnostic procedure should first reproduce the boundary under controlled identities and a known existing record. Inspect the request/tenant relationship, current actor membership and relevant query/authorization path. An access denial obtained only by deleting the fixture would not be a repair.\n\nNarrowness concerns intent, not the smallest line count. A correct repair may need a shared boundary check and multiple regression probes. An unrelated architectural rewrite would need a separate reason. Preserve failed attempts, especially when one closes the visible path but leaves a related route exposed.\n\nThe common acceptance inventory includes direct identifiers, lists and searches. The seeded defect may affect only one path, but regression scope should follow the shared boundary and the predefined contract. Do not expand hidden tests after observing which method performs well.\n\nThe four methods may legitimately take different small-change paths. Compare the documented selected route rather than force full greenfield planning on all of them. Record any departure, manual intervention or unavailable host capability. A profile change is part of the evaluated arrangement.\n\nThe expected execution packet would contain baseline evidence that the fixed probe fails before repair, actual change/diagnosis records and after-repair regression observations. None is present. CS-15 therefore remains Not run; the prose does not simulate a failed or successful trial to complete the narrative.\n\n<!-- C11-S07 -->\n## What the records support\n\nThe records currently support a business specification, source-specific process mechanisms and an original comparative inspection design. They support questions about how intent, context, authority and acceptance would be related. They do not establish implementation results or framework effectiveness.\n\nKeep a claim/result distinction at the episode level:\n\n| Item | Current disposition |\n|---|---|\n| Accepted domain and language family | Recorded author direction |\n| Business requirement inventory | Design definition; executable review/freeze pending |\n| Native artifact trails | Documentary teaching maps, not generated run outputs |\n| Separate author-written policy model | Ten local sequential checks passed; not application acceptance or independent validation |\n| E1 implementation acceptance | Not run |\n| E2 policy-change acceptance | Not run |\n| E3 failing baseline and repair regression | Not run |\n| Timing, cost and defect comparison | Not assessed |\n| Production/team/longitudinal outcomes | Not observed |\n\nAn author-designed example can reveal an ambiguity without proving how often it occurs. The earlier pilot's self-approval fixture ambiguity is a real editorial finding in the book material, not an application bug or a failed framework trial. Preserve that distinction when using it diagnostically.\n\nIf later execution fills these gaps, retain adverse results and the original protocol. An installation problem should not become an application failure score. A successful manual correction should not disappear from the effort record. A changed requirement should trigger a task-identity review rather than be silently absorbed into a favorable result.\n\nThe qualitative route is the honest current deliverable because essential execution controls are unmet. It remains useful as a reproducible way to inspect primary instructions against a shared business problem. It cannot answer which method is faster or safer.\n\n<!-- C11-S08 -->\n## Reproduce and delimit the case\n\nTo reproduce this documentary exercise, begin with the case specification and its CS inventory. Read the four pinned source trails identified in chapters 4–7. Map each requirement into the selected native records, distinguish prescribed from optional work, and record unresolved decisions. Compare the resulting maps using F01–F11 without assigning outcomes that were never observed.\n\nA narrow executable companion is available in [examples/approval-policy](../../examples/approval-policy/README.md). It models only an approval transition over trusted in-memory records: tenant/current-role eligibility, self-approval exclusion, distinct counting, terminal rejection of later approvals and creation-bound v1/v2 thresholds. Ten author-written checks passed under the locally available Node.js v26.13.0; the [actual output and file hashes](../../research/evidence/POLICY_MODEL_RUN.json) are retained. No package was installed.\n\nThis observation does not fill the application acceptance table. The example has no authentication, database, audit, HTTP interface, idempotency-key handling, rejection operation or concurrent execution. Its internal duplicate-actor result is not the future retry contract. TypeScript is executed through Node's type stripping; `tsc` is unavailable on the session PATH, so static type-checking was not performed. [Node's execution limits](https://nodejs.org/api/typescript.html) distinguish this from compiler validation. The model and checks were authored together and are not an independently reviewed oracle.\n\nThe repository's `python3 scripts/check_manuscript.py` command audits manuscript hashes/counts, section/title coverage, citation receipts and local-link paths. It checks document integrity. It does not install a methodology, build the SaaS or certify a requirement. The actual command/output record is linked from the manuscript report.\n\nAn executable reproduction requires the additional inputs defined in the [run protocol](../../research/RUN_PROTOCOL.md): stack/host/model identities, installed artifacts, per-episode baseline hashes, fixtures, independent checks, reset commands, allowed interventions, resource limits and retained outputs. Missing values must stay missing until genuinely supplied.\n\nThe case can then produce bounded observations about this local synthetic service. Wider conclusions require different evidence: people and teams for coordination, operational exercises for recovery, longer maintenance for drift/cost, and replication for more stable estimates. No one local trial should stand in for all of them.\n\nThis chapter gives readers an inspection design they can challenge and a precise boundary around its present evidence. The next chapter develops the acceptance and operational duties needed before those missing results could support stronger claims.\n"
+  }
+}

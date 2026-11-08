@@ -1,0 +1,17 @@
+--- a/OUTLINE.md
++++ b/OUTLINE.md
+@@ -20,3 +20,14 @@
+ | 12 | Testing, Security & Production Readiness |
+ | 13 | Common Failures and Anti-Patterns |
+ | 14 | The Future of AI-Native Engineering |
++
++## Proposed chapter boundaries
++
++These notes require author approval; chapter titles and order remain unchanged.
++
++- Chapters 1–3 own history, engineering discipline and comparison vocabulary respectively; avoid repeating the same introduction.
++- Chapter 3 briefly introduces SDD and the common business problem; chapter 8 owns the full SDD treatment and chapter 11 the full case study.
++- Chapters 4–7 use the same comparison questions and a bounded shared business increment, with method-specific artifacts and version notes.
++- Chapter 9 compares mechanisms and evidence; chapter 10 applies them to conditional selection decisions.
++- Testing and security apply throughout; chapter 12 consolidates their evidence and production boundaries, while chapter 13 focuses on diagnosis and recovery.
++- Chapter 14 labels projections and open questions; no predicted capability or unexecuted benchmark is presented as a result.

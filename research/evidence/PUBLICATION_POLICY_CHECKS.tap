@@ -1,0 +1,18 @@
+✔ creation-bound v1 high-risk policy still permits one eligible approval (0.518959ms)
+✔ standard-risk v2 still requires one approval (0.091417ms)
+✔ high-risk v2 stays pending after one actor and completes after a distinct second (0.562541ms)
+✔ repeating the first approver cannot count as the distinct second approver (0.084166ms)
+✔ pending-state requester with approver and admin roles is denied; positive control works (0.074291ms)
+✔ revoked membership is denied despite an approver role (0.05625ms)
+✔ foreign-tenant approver cannot change this tenant request (0.056375ms)
+✔ administrator status alone does not supply an approver role (0.056042ms)
+✔ an eligible actor cannot approve either terminal request state (0.097208ms)
+✔ a successful partial approval returns fresh state without mutating its input (0.545708ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 136.204125

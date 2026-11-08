@@ -1,0 +1,29 @@
+diff --git a/OUTLINE.md b/OUTLINE.md
+new file mode 100644
+--- /dev/null
++++ b/OUTLINE.md
+@@ -0,0 +1,24 @@
++# Proposed outline — Engineering with AI: Beyond Vibe Coding
++
++Status: PROPOSED; author approval required. M0 candidate, 2026-10-31.
++The original OUTLINE.md was not supplied. Do not apply over a restored original.
++Twelve chapter slots are an option, not an accepted chapter-count decision.
++
++1. Engineering decisions when AI participates
++2. Specifications, context and evidence
++3. The common case and comparison protocol
++4. BMAD Method
++5. GSD framework lineage
++6. AWS AI-DLC
++7. AI Unified Process
++8. One change, four artifact trails
++9. Repair, maintenance and specification drift
++10. Quality, operations and team decision rights
++11. Choosing and adapting a process
++12. Running your own evaluation
++
++SDD is cross-cutting. Tools and IDEs are implementation context.
++Method order is not a ranking. Snapshot/profile choices remain open.
++Slot 8 uses walkthrough evidence if controlled trials are infeasible.
++Appendices may hold dated setup recipes, glossary, scorecards and source notes.
++No chapter abstracts, word budgets, manuscript prose or results are approved.

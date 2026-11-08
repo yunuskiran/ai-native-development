@@ -1,0 +1,18 @@
+{
+  "checkedOn": "2026-11-01",
+  "command": "python3 scripts/check_pilot.py",
+  "pilotVersion": "0.3",
+  "status": "PASS — document integrity only",
+  "artifacts": 6,
+  "words": 15579,
+  "sections": 33,
+  "githubCitationOccurrences": 29,
+  "webCitationOccurrences": 8,
+  "distinctInspectedSources": 20,
+  "localLinkPaths": 608,
+  "originalMaster": "unchanged",
+  "approvedOutline": "unchanged",
+  "experimentReadiness": "13 unchecked",
+  "independentReview": "pending, not evaluated by this script",
+  "priorV02Artifacts": "four current/archived text hashes unchanged"
+}

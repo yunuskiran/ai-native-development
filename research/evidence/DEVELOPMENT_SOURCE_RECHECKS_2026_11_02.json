@@ -1,0 +1,32 @@
+{
+  "status": "Primary passage recheck for development pass; independent review pending",
+  "sources": [],
+  "supplementalInspections": [
+    {
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-02",
+      "inspectedRanges": [
+        [
+          18,
+          43
+        ]
+      ],
+      "scope": "Profile chooser, complete-lifecycle Feature label and static counting qualification",
+      "gitBlobSha": "240796c08b10d99bff3ddccd1f98049f8b674354",
+      "retrievalTool": "GitHub fetch_file, repository/ref/path and lines 18–43"
+    }
+  ],
+  "claims": [
+    {
+      "id": "DEV-C10-C01",
+      "sourceId": "M2-A02",
+      "locator": "L24–L43",
+      "claim": "The pinned chooser describes Feature as a complete-lifecycle candidate; its stage counts describe static routes and exclude setup.",
+      "use": "C10-S04 conditional selection example",
+      "limits": "Source description only; no operational outcome, compliance or installation verification"
+    }
+  ]
+}

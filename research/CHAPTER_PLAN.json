@@ -1,0 +1,517 @@
+{
+  "status": "M1 architecture accepted by the author in A06; not manuscript or experiment results",
+  "language": "English",
+  "chapterStructure": "Author supplied; titles and order preserved",
+  "technology": "TypeScript / Node.js — author selected; exact versions/framework/database TBD",
+  "mainTextTarget": 66500,
+  "appendicesAllowance": 3500,
+  "frontBackAllowance": 2000,
+  "chapters": [
+    {
+      "id": "C01",
+      "number": 1,
+      "title": "The Evolution of AI-Assisted Development",
+      "brief": "chapter_briefs/01-the-evolution-of-ai-assisted-development.md",
+      "targetWords": 3000,
+      "sections": [
+        {
+          "id": "C01-S01",
+          "title": "A bounded history, with dates"
+        },
+        {
+          "id": "C01-S02",
+          "title": "From assistance to delegated work"
+        },
+        {
+          "id": "C01-S03",
+          "title": "Responsibilities that need owners"
+        },
+        {
+          "id": "C01-S04",
+          "title": "A maintenance change as a running question"
+        },
+        {
+          "id": "C01-S05",
+          "title": "What changed, what is uncertain"
+        },
+        {
+          "id": "C01-S06",
+          "title": "Questions for the rest of the book"
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "number": 2,
+      "title": "Beyond Vibe Coding",
+      "brief": "chapter_briefs/02-beyond-vibe-coding.md",
+      "targetWords": 3500,
+      "sections": [
+        {
+          "id": "C02-S01",
+          "title": "Define the behavior behind the label"
+        },
+        {
+          "id": "C02-S02",
+          "title": "From intent to an accepted change"
+        },
+        {
+          "id": "C02-S03",
+          "title": "The smallest useful engineering record"
+        },
+        {
+          "id": "C02-S04",
+          "title": "When ceremony costs more than it helps"
+        },
+        {
+          "id": "C02-S05",
+          "title": "What evidence can establish"
+        },
+        {
+          "id": "C02-S06",
+          "title": "From habits to repeatable processes"
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "number": 3,
+      "title": "Understanding AI-Driven Methodologies",
+      "brief": "chapter_briefs/03-understanding-ai-driven-methodologies.md",
+      "targetWords": 4500,
+      "sections": [
+        {
+          "id": "C03-S01",
+          "title": "The comparison unit"
+        },
+        {
+          "id": "C03-S02",
+          "title": "Methods, approaches and tools"
+        },
+        {
+          "id": "C03-S03",
+          "title": "A short specification primer"
+        },
+        {
+          "id": "C03-S04",
+          "title": "The common SaaS problem"
+        },
+        {
+          "id": "C03-S05",
+          "title": "Questions applied to every framework"
+        },
+        {
+          "id": "C03-S06",
+          "title": "Reading claims and observations"
+        },
+        {
+          "id": "C03-S07",
+          "title": "How to read the four deep dives"
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "number": 4,
+      "title": "BMAD Method — Deep Dive",
+      "brief": "chapter_briefs/04-bmad-method-deep-dive.md",
+      "targetWords": 5500,
+      "sections": [
+        {
+          "id": "C04-S01",
+          "title": "Define the BMAD intervention"
+        },
+        {
+          "id": "C04-S02",
+          "title": "Choose how much planning the change needs"
+        },
+        {
+          "id": "C04-S03",
+          "title": "Specialized perspectives and human decisions"
+        },
+        {
+          "id": "C04-S04",
+          "title": "Carry artifacts and context forward"
+        },
+        {
+          "id": "C04-S05",
+          "title": "Build, review and establish acceptance"
+        },
+        {
+          "id": "C04-S06",
+          "title": "Existing code and evolving requirements"
+        },
+        {
+          "id": "C04-S07",
+          "title": "Limits and conditional fit"
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "number": 5,
+      "title": "GSD — Deep Dive",
+      "brief": "chapter_briefs/05-gsd-deep-dive.md",
+      "targetWords": 5500,
+      "sections": [
+        {
+          "id": "C05-S01",
+          "title": "Name the lineage and snapshot"
+        },
+        {
+          "id": "C05-S02",
+          "title": "Discuss decisions before decomposition"
+        },
+        {
+          "id": "C05-S03",
+          "title": "Plan bounded work with persistent state"
+        },
+        {
+          "id": "C05-S04",
+          "title": "Execute with explicit context boundaries"
+        },
+        {
+          "id": "C05-S05",
+          "title": "Verify, recover and close the work"
+        },
+        {
+          "id": "C05-S06",
+          "title": "Small repairs and policy changes"
+        },
+        {
+          "id": "C05-S07",
+          "title": "Limits and conditional fit"
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "number": 6,
+      "title": "AWS AI-DLC — Deep Dive",
+      "brief": "chapter_briefs/06-aws-ai-dlc-deep-dive.md",
+      "targetWords": 5500,
+      "sections": [
+        {
+          "id": "C06-S01",
+          "title": "Concept, implementation and profile"
+        },
+        {
+          "id": "C06-S02",
+          "title": "Intent, clarification and collaborative decisions"
+        },
+        {
+          "id": "C06-S03",
+          "title": "Phases, routes and persistent artifacts"
+        },
+        {
+          "id": "C06-S04",
+          "title": "Human gates and execution authority"
+        },
+        {
+          "id": "C06-S05",
+          "title": "Construction and acceptance evidence"
+        },
+        {
+          "id": "C06-S06",
+          "title": "Operations, teams and local boundaries"
+        },
+        {
+          "id": "C06-S07",
+          "title": "Limits and conditional fit"
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "number": 7,
+      "title": "AI Unified Process — Deep Dive",
+      "brief": "chapter_briefs/07-ai-unified-process-deep-dive.md",
+      "targetWords": 5500,
+      "sections": [
+        {
+          "id": "C07-S01",
+          "title": "Define the method and adapter boundary"
+        },
+        {
+          "id": "C07-S02",
+          "title": "Requirements and use-case ownership"
+        },
+        {
+          "id": "C07-S03",
+          "title": "Persistent specifications as a working record"
+        },
+        {
+          "id": "C07-S04",
+          "title": "Implementation and traceable tests"
+        },
+        {
+          "id": "C07-S05",
+          "title": "Policy change and existing systems"
+        },
+        {
+          "id": "C07-S06",
+          "title": "The same increment, original artifacts"
+        },
+        {
+          "id": "C07-S07",
+          "title": "Limits and conditional fit"
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "number": 8,
+      "title": "Spec-Driven Development as an Approach",
+      "brief": "chapter_briefs/08-spec-driven-development-as-an-approach.md",
+      "targetWords": 4500,
+      "sections": [
+        {
+          "id": "C08-S01",
+          "title": "From the primer to a lifecycle policy"
+        },
+        {
+          "id": "C08-S02",
+          "title": "Three attributed patterns, not a ladder"
+        },
+        {
+          "id": "C08-S03",
+          "title": "Specifications, context and executable contracts"
+        },
+        {
+          "id": "C08-S04",
+          "title": "Who resolves disagreement"
+        },
+        {
+          "id": "C08-S05",
+          "title": "One policy change across native artifacts"
+        },
+        {
+          "id": "C08-S06",
+          "title": "Costs, drift and useful limits"
+        },
+        {
+          "id": "C08-S07",
+          "title": "Apply the lens without creating a fifth arm"
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "number": 9,
+      "title": "Comparing the Methodologies",
+      "brief": "chapter_briefs/09-comparing-the-methodologies.md",
+      "targetWords": 5000,
+      "sections": [
+        {
+          "id": "C09-S01",
+          "title": "Check what is being compared"
+        },
+        {
+          "id": "C09-S02",
+          "title": "Compare decision rights and planning"
+        },
+        {
+          "id": "C09-S03",
+          "title": "Compare artifacts, context and change"
+        },
+        {
+          "id": "C09-S04",
+          "title": "Compare verification, operations and portability"
+        },
+        {
+          "id": "C09-S05",
+          "title": "Read gaps, conflicts and observations"
+        },
+        {
+          "id": "C09-S06",
+          "title": "Tradeoffs the evidence supports"
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "number": 10,
+      "title": "Choosing the Right Methodology",
+      "brief": "chapter_briefs/10-choosing-the-right-methodology.md",
+      "targetWords": 4500,
+      "sections": [
+        {
+          "id": "C10-S01",
+          "title": "Describe the project before naming a method"
+        },
+        {
+          "id": "C10-S02",
+          "title": "Identify non-negotiable decision duties"
+        },
+        {
+          "id": "C10-S03",
+          "title": "Filter candidates with evidence"
+        },
+        {
+          "id": "C10-S04",
+          "title": "Work through contrasting scenarios"
+        },
+        {
+          "id": "C10-S05",
+          "title": "Adapt practices without losing ownership"
+        },
+        {
+          "id": "C10-S06",
+          "title": "Pilot, measure learning and define an exit"
+        },
+        {
+          "id": "C10-S07",
+          "title": "Write and revisit the decision"
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "number": 11,
+      "title": "Real-World Case Study: Building a SaaS",
+      "brief": "chapter_briefs/11-real-world-case-study-building-a-saas.md",
+      "targetWords": 8000,
+      "sections": [
+        {
+          "id": "C11-S01",
+          "title": "Scope, realism and approved decisions"
+        },
+        {
+          "id": "C11-S02",
+          "title": "Requirements, fixtures and acceptance oracle"
+        },
+        {
+          "id": "C11-S03",
+          "title": "Freeze profiles and per-episode baselines"
+        },
+        {
+          "id": "C11-S04",
+          "title": "E1: a bounded feature"
+        },
+        {
+          "id": "C11-S05",
+          "title": "E2: a policy change"
+        },
+        {
+          "id": "C11-S06",
+          "title": "E3: a boundary defect"
+        },
+        {
+          "id": "C11-S07",
+          "title": "What the records support"
+        },
+        {
+          "id": "C11-S08",
+          "title": "Reproduce and delimit the case"
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "number": 12,
+      "title": "Testing, Security & Production Readiness",
+      "brief": "chapter_briefs/12-testing-security-and-production-readiness.md",
+      "targetWords": 5500,
+      "sections": [
+        {
+          "id": "C12-S01",
+          "title": "Define acceptance and evidence ownership"
+        },
+        {
+          "id": "C12-S02",
+          "title": "Use generated tests without circular validation"
+        },
+        {
+          "id": "C12-S03",
+          "title": "Trace requirements through changes"
+        },
+        {
+          "id": "C12-S04",
+          "title": "Examine the SaaS boundaries"
+        },
+        {
+          "id": "C12-S05",
+          "title": "Review dependencies, configuration and secrets"
+        },
+        {
+          "id": "C12-S06",
+          "title": "From local evidence to operations"
+        },
+        {
+          "id": "C12-S07",
+          "title": "Assemble a release evidence packet"
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "number": 13,
+      "title": "Common Failures and Anti-Patterns",
+      "brief": "chapter_briefs/13-common-failures-and-anti-patterns.md",
+      "targetWords": 3500,
+      "sections": [
+        {
+          "id": "C13-S01",
+          "title": "A diagnostic pattern with evidence labels"
+        },
+        {
+          "id": "C13-S02",
+          "title": "Ambiguous intent and invisible decisions"
+        },
+        {
+          "id": "C13-S03",
+          "title": "Stale artifacts and lost context"
+        },
+        {
+          "id": "C13-S04",
+          "title": "Ceremony without useful decisions"
+        },
+        {
+          "id": "C13-S05",
+          "title": "Circular checks and false completion"
+        },
+        {
+          "id": "C13-S06",
+          "title": "Repair narrowly and retain the record"
+        },
+        {
+          "id": "C13-S07",
+          "title": "Use failure to update process choices"
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "number": 14,
+      "title": "The Future of AI-Native Engineering",
+      "brief": "chapter_briefs/14-the-future-of-ai-native-engineering.md",
+      "targetWords": 2500,
+      "sections": [
+        {
+          "id": "C14-S01",
+          "title": "What this edition established"
+        },
+        {
+          "id": "C14-S02",
+          "title": "Stable questions, changing implementations"
+        },
+        {
+          "id": "C14-S03",
+          "title": "Scenarios and their assumptions"
+        },
+        {
+          "id": "C14-S04",
+          "title": "An agenda for evidence"
+        },
+        {
+          "id": "C14-S05",
+          "title": "When to evaluate again"
+        },
+        {
+          "id": "C14-S06",
+          "title": "Engineering judgment beyond this edition"
+        }
+      ]
+    }
+  ]
+}

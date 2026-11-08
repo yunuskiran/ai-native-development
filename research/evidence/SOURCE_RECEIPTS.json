@@ -1,0 +1,1415 @@
+{
+  "status": "M2 research receipts; not runtime or benchmark results",
+  "accessDate": "2026-10-31",
+  "timezone": "Australia/Melbourne",
+  "sources": [
+    {
+      "id": "M2-B01",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/README.md",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "path": "README.md",
+      "title": "README.md",
+      "modified": "2026-08-30T20:57:25Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 89,
+      "inspectedRanges": [
+        [
+          1,
+          42
+        ],
+        [
+          45,
+          69
+        ],
+        [
+          80,
+          87
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-B02",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/choose-a-planning-path.md",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "path": "docs/plan/choose-a-planning-path.md",
+      "title": "choose-a-planning-path.md",
+      "modified": "2026-08-30T20:57:25Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 181,
+      "inspectedRanges": [
+        [
+          1,
+          170
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-B04",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/existing-codebases/start-in-an-existing-codebase.md",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "path": "docs/existing-codebases/start-in-an-existing-codebase.md",
+      "title": "start-in-an-existing-codebase.md",
+      "modified": "2026-08-29T17:48:29Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 88,
+      "inspectedRanges": [
+        [
+          1,
+          88
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "path": "docs/build/build-a-change.md",
+      "title": "build-a-change.md",
+      "modified": "2026-09-03T15:48:03Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 210,
+      "inspectedRanges": [
+        [
+          1,
+          14
+        ],
+        [
+          16,
+          43
+        ],
+        [
+          69,
+          116
+        ],
+        [
+          129,
+          145
+        ],
+        [
+          147,
+          154
+        ],
+        [
+          160,
+          164
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-B08",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/LICENSE",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "path": "LICENSE",
+      "title": "LICENSE",
+      "modified": "2026-01-18T23:03:47Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 31,
+      "inspectedRanges": [
+        [
+          1,
+          30
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-B09",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/TRADEMARK.md",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "path": "TRADEMARK.md",
+      "title": "TRADEMARK.md",
+      "modified": "2026-01-18T23:03:47Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 56,
+      "inspectedRanges": [
+        [
+          1,
+          14
+        ],
+        [
+          21,
+          26
+        ],
+        [
+          28,
+          44
+        ],
+        [
+          51,
+          56
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-B07",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/test-completed-work.md",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "path": "docs/build/test-completed-work.md",
+      "title": "test-completed-work.md",
+      "modified": "2026-08-30T10:22:29Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 118,
+      "inspectedRanges": [
+        [
+          1,
+          118
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-B05",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/define-requirements-and-a-specification.md",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "path": "docs/plan/define-requirements-and-a-specification.md",
+      "title": "define-requirements-and-a-specification.md",
+      "modified": "2026-08-30T20:57:25Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 141,
+      "inspectedRanges": [
+        [
+          1,
+          24
+        ],
+        [
+          31,
+          36
+        ],
+        [
+          59,
+          70
+        ],
+        [
+          72,
+          91
+        ],
+        [
+          95,
+          141
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-B10",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/package.json",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "path": "package.json",
+      "title": "package.json",
+      "modified": "2026-10-14T21:18:43Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 125,
+      "inspectedRanges": [
+        [
+          1,
+          10
+        ],
+        [
+          25,
+          34
+        ],
+        [
+          115,
+          125
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-B06",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/customize/adopt-bmad-across-a-team.md",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "path": "docs/customize/adopt-bmad-across-a-team.md",
+      "title": "adopt-bmad-across-a-team.md",
+      "modified": "2026-08-30T10:22:29Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 387,
+      "inspectedRanges": [
+        [
+          1,
+          33
+        ],
+        [
+          37,
+          42
+        ],
+        [
+          72,
+          77
+        ],
+        [
+          124,
+          129
+        ],
+        [
+          148,
+          168
+        ],
+        [
+          180,
+          181
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-G01",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/the-phase-loop.md",
+      "repo": "open-gsd/gsd-core",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc",
+      "path": "docs/explanation/the-phase-loop.md",
+      "title": "the-phase-loop.md",
+      "modified": "2026-06-02T12:13:09Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 130,
+      "inspectedRanges": [
+        [
+          1,
+          10
+        ],
+        [
+          21,
+          74
+        ],
+        [
+          77,
+          84
+        ],
+        [
+          88,
+          95
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "open-gsd/gsd-core maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "repo": "open-gsd/gsd-core",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc",
+      "path": "docs/how-to/verify-and-ship.md",
+      "title": "verify-and-ship.md",
+      "modified": "2026-09-14T20:49:52Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 138,
+      "inspectedRanges": [
+        [
+          1,
+          138
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "open-gsd/gsd-core maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-G05",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/LICENSE",
+      "repo": "open-gsd/gsd-core",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc",
+      "path": "LICENSE",
+      "title": "LICENSE",
+      "modified": "2026-06-16T12:48:35Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 22,
+      "inspectedRanges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "open-gsd/gsd-core maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-G02",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/explanation/context-engineering.md",
+      "repo": "open-gsd/gsd-core",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc",
+      "path": "docs/explanation/context-engineering.md",
+      "title": "context-engineering.md",
+      "modified": "2026-07-04T17:32:51Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 134,
+      "inspectedRanges": [
+        [
+          1,
+          75
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "open-gsd/gsd-core maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-G06",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/package.json",
+      "repo": "open-gsd/gsd-core",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc",
+      "path": "package.json",
+      "title": "package.json",
+      "modified": "2026-10-26T14:58:13Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 194,
+      "inspectedRanges": [
+        [
+          1,
+          10
+        ],
+        [
+          44,
+          49
+        ],
+        [
+          68,
+          74
+        ],
+        [
+          80,
+          81
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "open-gsd/gsd-core maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-G03",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/install-on-your-runtime.md",
+      "repo": "open-gsd/gsd-core",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc",
+      "path": "docs/how-to/install-on-your-runtime.md",
+      "title": "install-on-your-runtime.md",
+      "modified": "2026-10-26T14:58:13Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 651,
+      "inspectedRanges": [
+        [
+          1,
+          14
+        ],
+        [
+          17,
+          52
+        ],
+        [
+          63,
+          72
+        ],
+        [
+          74,
+          93
+        ],
+        [
+          122,
+          187
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "open-gsd/gsd-core maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-A05",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/LICENSE",
+      "repo": "awslabs/aidlc-workflows",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+      "path": "LICENSE",
+      "title": "LICENSE",
+      "modified": "2025-11-13T22:05:11Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 18,
+      "inspectedRanges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "awslabs/aidlc-workflows maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-A01",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/04-phases-and-stages.md",
+      "repo": "awslabs/aidlc-workflows",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+      "path": "docs/guide/04-phases-and-stages.md",
+      "title": "04-phases-and-stages.md",
+      "modified": "2026-10-29T08:15:19Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 493,
+      "inspectedRanges": [
+        [
+          1,
+          10
+        ],
+        [
+          12,
+          45
+        ],
+        [
+          47,
+          82
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "awslabs/aidlc-workflows maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "repo": "awslabs/aidlc-workflows",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+      "path": "docs/guide/workflow-profiles.md",
+      "title": "workflow-profiles.md",
+      "modified": "2026-10-26T02:07:07Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 255,
+      "inspectedRanges": [
+        [
+          1,
+          10
+        ],
+        [
+          18,
+          30
+        ],
+        [
+          36,
+          103
+        ],
+        [
+          108,
+          108
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "awslabs/aidlc-workflows maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-A04",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/14-artifacts-reference.md",
+      "repo": "awslabs/aidlc-workflows",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+      "path": "docs/guide/14-artifacts-reference.md",
+      "title": "14-artifacts-reference.md",
+      "modified": "2026-10-26T15:33:16Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 358,
+      "inspectedRanges": [
+        [
+          1,
+          14
+        ],
+        [
+          17,
+          22
+        ],
+        [
+          24,
+          83
+        ],
+        [
+          101,
+          102
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "awslabs/aidlc-workflows maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-A03",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/core/hooks/aidlc-plan-approval-guard.ts",
+      "repo": "awslabs/aidlc-workflows",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+      "path": "core/hooks/aidlc-plan-approval-guard.ts",
+      "title": "aidlc-plan-approval-guard.ts",
+      "modified": "2026-10-29T16:20:24Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 3153,
+      "inspectedRanges": [
+        [
+          1,
+          10
+        ],
+        [
+          20,
+          25
+        ],
+        [
+          42,
+          47
+        ],
+        [
+          49,
+          56
+        ],
+        [
+          59,
+          68
+        ],
+        [
+          110,
+          115
+        ],
+        [
+          163,
+          168
+        ],
+        [
+          173,
+          183
+        ],
+        [
+          189,
+          190
+        ],
+        [
+          2384,
+          2418
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "awslabs/aidlc-workflows maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-U04",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/.claude-plugin/plugin.json",
+      "repo": "AI-Unified-Process/marketplace",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "path": "aiup-nestjs-nextjs/.claude-plugin/plugin.json",
+      "title": "plugin.json",
+      "modified": "2026-10-29T10:05:35Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 12,
+      "inspectedRanges": [
+        [
+          1,
+          12
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "AI-Unified-Process/marketplace maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-U03",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-core/skills/spec-review/SKILL.md",
+      "repo": "AI-Unified-Process/marketplace",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "path": "aiup-core/skills/spec-review/SKILL.md",
+      "title": "SKILL.md",
+      "modified": "2026-10-29T10:05:35Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 325,
+      "inspectedRanges": [
+        [
+          1,
+          16
+        ],
+        [
+          25,
+          75
+        ],
+        [
+          79,
+          81
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "AI-Unified-Process/marketplace maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-U02",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/README.md",
+      "repo": "AI-Unified-Process/marketplace",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "path": "aiup-nestjs-nextjs/README.md",
+      "title": "README.md",
+      "modified": "2026-10-27T15:44:48Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 141,
+      "inspectedRanges": [
+        [
+          1,
+          141
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "AI-Unified-Process/marketplace maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "repo": "AI-Unified-Process/marketplace",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "path": "docs/workflow.md",
+      "title": "workflow.md",
+      "modified": "2026-10-29T10:05:35Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 500,
+      "inspectedRanges": [
+        [
+          1,
+          16
+        ],
+        [
+          19,
+          24
+        ],
+        [
+          46,
+          66
+        ],
+        [
+          111,
+          136
+        ],
+        [
+          153,
+          158
+        ],
+        [
+          169,
+          174
+        ],
+        [
+          210,
+          212
+        ],
+        [
+          300,
+          447
+        ],
+        [
+          475,
+          500
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "AI-Unified-Process/marketplace maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-U05",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/LICENSE",
+      "repo": "AI-Unified-Process/marketplace",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "path": "LICENSE",
+      "title": "LICENSE",
+      "modified": "2026-08-21T07:32:32Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 202,
+      "inspectedRanges": [
+        [
+          1,
+          16
+        ],
+        [
+          35,
+          40
+        ],
+        [
+          49,
+          56
+        ],
+        [
+          58,
+          72
+        ],
+        [
+          89,
+          125
+        ],
+        [
+          137,
+          151
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "AI-Unified-Process/marketplace maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-U07",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/skills/nest-test/SKILL.md",
+      "repo": "AI-Unified-Process/marketplace",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "path": "aiup-nestjs-nextjs/skills/nest-test/SKILL.md",
+      "title": "SKILL.md",
+      "modified": "2026-10-27T15:44:48Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 320,
+      "inspectedRanges": [
+        [
+          1,
+          11
+        ],
+        [
+          16,
+          34
+        ],
+        [
+          37,
+          71
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "AI-Unified-Process/marketplace maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-U06",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/NOTICE",
+      "repo": "AI-Unified-Process/marketplace",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "path": "NOTICE",
+      "title": "NOTICE",
+      "modified": "2026-08-21T07:32:32Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 17,
+      "inspectedRanges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "AI-Unified-Process/marketplace maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-A06",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/README.md",
+      "repo": "awslabs/aidlc-workflows",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+      "path": "README.md",
+      "title": "README.md",
+      "modified": "2026-10-30T09:00:07Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 206,
+      "inspectedRanges": [
+        [
+          1,
+          45
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "awslabs/aidlc-workflows maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-U08",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-core/skills/reverse-engineer/SKILL.md",
+      "repo": "AI-Unified-Process/marketplace",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "path": "aiup-core/skills/reverse-engineer/SKILL.md",
+      "title": "SKILL.md",
+      "modified": "2026-10-25T08:43:23Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 367,
+      "inspectedRanges": [
+        [
+          1,
+          10
+        ],
+        [
+          25,
+          30
+        ],
+        [
+          48,
+          58
+        ],
+        [
+          95,
+          100
+        ],
+        [
+          108,
+          113
+        ],
+        [
+          132,
+          137
+        ],
+        [
+          156,
+          161
+        ],
+        [
+          262,
+          267
+        ],
+        [
+          298,
+          300
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "AI-Unified-Process/marketplace maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-G07",
+      "url": "https://github.com/gsd-build/get-shit-done/blob/bdcaab2c752d9a33a1a1ca9acf3a3c81fb991815/README.md",
+      "repo": "gsd-build/get-shit-done",
+      "ref": "bdcaab2c752d9a33a1a1ca9acf3a3c81fb991815",
+      "path": "README.md",
+      "title": "README.md",
+      "modified": "2026-05-31T13:18:41Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 13,
+      "inspectedRanges": [
+        [
+          1,
+          13
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "gsd-build/get-shit-done maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-B11",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/61e01f82644c4bb533750cfa0d6d61ab61d2cc9b/README.md",
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "ref": "61e01f82644c4bb533750cfa0d6d61ab61d2cc9b",
+      "path": "README.md",
+      "title": "README.md",
+      "modified": "2026-10-18T02:03:49Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 126,
+      "inspectedRanges": [
+        [
+          1,
+          10
+        ],
+        [
+          16,
+          33
+        ],
+        [
+          61,
+          66
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "bmad-code-org/BMAD-METHOD maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-U09",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/skills/implement/SKILL.md",
+      "repo": "AI-Unified-Process/marketplace",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "path": "aiup-nestjs-nextjs/skills/implement/SKILL.md",
+      "title": "SKILL.md",
+      "modified": "2026-10-29T10:05:35Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 276,
+      "inspectedRanges": [
+        [
+          1,
+          10
+        ],
+        [
+          16,
+          31
+        ],
+        [
+          36,
+          79
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "AI-Unified-Process/marketplace maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-R05",
+      "url": "https://github.com/stephenlclarke/ai-dlc/blob/main/README.md",
+      "repo": "stephenlclarke/ai-dlc",
+      "ref": "main",
+      "path": "README.md",
+      "title": "README.md",
+      "modified": "2026-08-03T10:01:19Z",
+      "accessed": "2026-10-31",
+      "retrieval": "INSPECTED",
+      "totalLines": 882,
+      "inspectedRanges": [
+        [
+          1,
+          23
+        ],
+        [
+          27,
+          32
+        ],
+        [
+          39,
+          61
+        ],
+        [
+          68,
+          70
+        ]
+      ],
+      "kind": "github-file",
+      "publisher": "stephenlclarke/ai-dlc maintainers",
+      "published": null,
+      "confidence": "High for inspected source wording only; behavior/outcome not validated"
+    },
+    {
+      "id": "M2-VB",
+      "url": "https://api.github.com/repos/bmad-code-org/BMAD-METHOD/releases/latest",
+      "retrieval": "INSPECTED",
+      "tag": "v6.12.4",
+      "published": "2026-10-14T21:19:19Z",
+      "target": "main",
+      "prerelease": false,
+      "kind": "github-release-metadata",
+      "accessed": "2026-10-31",
+      "resolvedTag": {
+        "id": "M2-VB",
+        "repo": "bmad-code-org/BMAD-METHOD",
+        "tag": "v6.12.4",
+        "url": "https://api.github.com/repos/bmad-code-org/BMAD-METHOD/commits/v6.12.4",
+        "retrieval": "INSPECTED",
+        "sha": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+        "date": "2026-10-14T21:18:43Z"
+      }
+    },
+    {
+      "id": "M2-VG",
+      "url": "https://api.github.com/repos/open-gsd/gsd-core/releases/latest",
+      "retrieval": "INSPECTED",
+      "tag": "v1.19.0",
+      "published": "2026-10-26T14:20:25Z",
+      "target": "next",
+      "prerelease": false,
+      "kind": "github-release-metadata",
+      "accessed": "2026-10-31",
+      "resolvedTag": {
+        "id": "M2-VG",
+        "repo": "open-gsd/gsd-core",
+        "tag": "v1.19.0",
+        "url": "https://api.github.com/repos/open-gsd/gsd-core/commits/v1.19.0",
+        "retrieval": "INSPECTED",
+        "sha": "9dc57a772195de423ab788e4d0d8734b162db35d",
+        "date": "2026-10-26T14:19:53Z"
+      }
+    },
+    {
+      "id": "M2-VA",
+      "url": "https://api.github.com/repos/awslabs/aidlc-workflows/releases/latest",
+      "retrieval": "INSPECTED",
+      "tag": "v2.11.2",
+      "published": "2026-10-28T09:01:17Z",
+      "target": "main",
+      "prerelease": false,
+      "kind": "github-release-metadata",
+      "accessed": "2026-10-31",
+      "resolvedTag": {
+        "id": "M2-VA",
+        "repo": "awslabs/aidlc-workflows",
+        "tag": "v2.11.2",
+        "url": "https://api.github.com/repos/awslabs/aidlc-workflows/commits/v2.11.2",
+        "retrieval": "INSPECTED",
+        "sha": "10a9bc9d85395a601de2624cf5bdd35292c10db4",
+        "date": "2026-10-28T08:37:18Z"
+      }
+    },
+    {
+      "id": "M2-VU",
+      "url": "https://api.github.com/repos/AI-Unified-Process/marketplace/releases/latest",
+      "retrieval": "INSPECTED",
+      "tag": "aiup-nestjs-nextjs-v0.8.1",
+      "published": "2026-10-28T13:15:07Z",
+      "target": "24fc9fdacdc7572dd881b1ac07ecf122bb892e91",
+      "prerelease": false,
+      "kind": "github-release-metadata",
+      "accessed": "2026-10-31",
+      "resolvedTag": {
+        "id": "M2-VU",
+        "repo": "AI-Unified-Process/marketplace",
+        "tag": "aiup-nestjs-nextjs-v0.8.1",
+        "url": "https://api.github.com/repos/AI-Unified-Process/marketplace/commits/aiup-nestjs-nextjs-v0.8.1",
+        "retrieval": "INSPECTED",
+        "sha": "24fc9fdacdc7572dd881b1ac07ecf122bb892e91",
+        "date": "2026-10-27T15:44:48Z"
+      }
+    },
+    {
+      "id": "M2-W01",
+      "url": "https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/",
+      "publisher": "AWS / Raja SP",
+      "published": "2025-07-31",
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Original methodology/phases and benefit language, headings What is / How does it work",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W02",
+      "url": "https://unifiedprocess.ai/methodology.html",
+      "publisher": "AI Unified Process / Simon Martinelli",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Spec-lifecycle self-classification, Level 2 and neighboring definitions",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W03",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+      "publisher": "Birgitta Böckeler / Martin Fowler site",
+      "published": "2025-10-15",
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Definition, three patterns and evaluation caveats; historical tool observations not reused as current features",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W04",
+      "url": "https://arxiv.org/html/2606.04967v1",
+      "publisher": "Sanderson Oliveira de Macedo",
+      "published": "2026-06-03",
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Sections 2, 4, 5, 6, 7, 8 and declared limitations/conflict; full-text HTML beyond abstract, not reproduction of all references",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": "arXiv v1"
+    },
+    {
+      "id": "M2-W05",
+      "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+      "publisher": "METR / Becker, Rush, Barnes, Rein",
+      "published": "2025-07-10",
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Methodology, Core Result, generalization limits and later-update link",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W06",
+      "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+      "publisher": "METR / Becker, Rush, Cunningham, Rein, Mahamud",
+      "published": "2026-02-24",
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Study changes, selection and timing limitations; not treated as a clean current uplift estimate",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W07",
+      "url": "https://www.agiusalexandre.com/blog/2026-09-26-ai-dlc-collaborative-team-bottleneck/",
+      "publisher": "Alexandre Agius (bio identifies AWS affiliation)",
+      "published": "2026-09-26",
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "First-hand platform account, verification/failure sections and author limitations; not an independent method trial",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W08",
+      "url": "https://nodejs.org/en/about/previous-releases",
+      "publisher": "Node.js project",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Release-table and LTS guidance; date-stamped mutable page",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W09",
+      "url": "https://nodejs.org/docs/latest-v24.x/api/typescript.html",
+      "publisher": "Node.js project",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "v24.22.2 docs: Full TypeScript support, Type stripping, module/features/decorator limits",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": "Node.js v24.22.2"
+    },
+    {
+      "id": "M2-W10",
+      "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+      "publisher": "TypeScript project",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "The handbook's goal/static-typechecker passage; no exact compiler-version selection",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W11",
+      "url": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
+      "publisher": "GitHub / Nat Friedman",
+      "published": "2021-06-29",
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Original technical-preview announcement; page update 2022-02-23",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W12",
+      "url": "https://kiro.dev/docs/specs/",
+      "publisher": "Kiro",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Core Structure / three-phase workflow, surface capability table; page says updated 2026-10-15",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W13",
+      "url": "https://link.springer.com/book/10.1007/979-8-8688-2851-5",
+      "publisher": "Apress / Springer Nature",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Public bibliographic fields only in this follow-up; prior M0 contents review retained separately",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W14",
+      "url": "https://x.com/karpathy/status/1886192184808149383",
+      "publisher": "Andrej Karpathy (candidate original post)",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Direct retrieval failed with 403; secondary search mentions are not primary verification",
+      "retrieval": "FAILED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W15",
+      "url": "https://tessl.io/registry/ai-unified-process/aiup-core/evals",
+      "publisher": "Tessl registry",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Direct retrieval failed, cache miss; search-result eval numbers not admitted as inspected findings",
+      "retrieval": "FAILED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W16",
+      "url": "https://nodejs.org/api/typescript.html",
+      "publisher": "Node.js project",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Default docs resolved to v26.13.0; type-stripping passage inspected, then version-24 docs used for candidate discussion",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": "Node.js v26.13.0"
+    },
+    {
+      "id": "M2-W17",
+      "url": "https://docs.nestjs.com/first-steps",
+      "publisher": "NestJS documentation",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "Language/Prerequisites/Setup; app and CLI requirements, not an installation",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W18",
+      "url": "https://nextjs.org/docs/app/getting-started/installation",
+      "publisher": "Next.js documentation",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "System requirements / Set up TypeScript; mutable docs, no installed framework pin",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    },
+    {
+      "id": "M2-W19",
+      "url": "https://www.typescriptlang.org/tsconfig/emitDecoratorMetadata.html",
+      "publisher": "TypeScript project",
+      "published": null,
+      "modified": null,
+      "accessed": "2026-10-31",
+      "scope": "emitDecoratorMetadata description and compiler-output comparison; no compilation",
+      "retrieval": "INSPECTED",
+      "kind": "web",
+      "version": null
+    }
+  ],
+  "branchResolutions": {
+    "https://api.github.com/repos/bmad-code-org/BMAD-METHOD/commits/V6.12": {
+      "sha": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "date": "2026-10-14T21:18:43Z"
+    },
+    "https://api.github.com/repos/bmad-code-org/BMAD-METHOD/commits/main": {
+      "sha": "61e01f82644c4bb533750cfa0d6d61ab61d2cc9b",
+      "date": "2026-10-18T17:46:50Z"
+    },
+    "https://api.github.com/repos/open-gsd/gsd-core/commits/main": {
+      "sha": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc",
+      "date": "2026-10-26T14:58:13Z"
+    },
+    "https://api.github.com/repos/gsd-build/get-shit-done/commits/main": {
+      "sha": "bdcaab2c752d9a33a1a1ca9acf3a3c81fb991815",
+      "date": "2026-05-31T13:34:35Z"
+    },
+    "https://api.github.com/repos/awslabs/aidlc-workflows/commits/main": {
+      "sha": "3939a8b9182f2e4153b92028057a7be74e0684c2",
+      "date": "2026-10-30T09:00:07Z"
+    },
+    "https://api.github.com/repos/AI-Unified-Process/marketplace/commits/main": {
+      "sha": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960",
+      "date": "2026-10-29T10:05:35Z"
+    }
+  },
+  "limitations": [
+    "GitHub BMAD recursive-tree request had one transport failure; retry succeeded. No external source tree or full external text is stored.",
+    "Source branch pins and latest release tags are distinct; release assets/npm registry not installed or checked.",
+    "Web line numbers are extraction-specific; cite section headings and canonical URLs.",
+    "Apress full text inaccessible/unprovided; public metadata does not certify originality."
+  ]
+}

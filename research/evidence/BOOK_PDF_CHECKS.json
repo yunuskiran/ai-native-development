@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-05",
+  "status": "PASS",
+  "pages": 141,
+  "longProseParagraphsVerified": 1099,
+  "missingProseParagraphs": 0,
+  "chapterAndSourceBookmarks": 15,
+  "blankPages": 0,
+  "textNormalization": "Whitespace and punctuation ignored; running headers and page numbers excluded. Tables, lists and short paragraphs are additionally sampled visually.",
+  "visualReview": {
+    "samplePages": [
+      1,
+      2,
+      3,
+      9,
+      16,
+      26,
+      37,
+      48,
+      59,
+      70,
+      79,
+      89,
+      98,
+      99,
+      115,
+      126,
+      133,
+      139,
+      140,
+      141
+    ],
+    "method": "Poppler PNG rendering and image inspection",
+    "scope": "Cover, contents, every chapter opening, case table and source table"
+  },
+  "outline": [
+    {
+      "title": "1. The Evolution of AI-Assisted Development",
+      "page": 3
+    },
+    {
+      "title": "2. Beyond Vibe Coding",
+      "page": 9
+    },
+    {
+      "title": "3. Understanding AI-Driven Methodologies",
+      "page": 16
+    },
+    {
+      "title": "4. BMAD Method - Deep Dive",
+      "page": 26
+    },
+    {
+      "title": "5. GSD - Deep Dive",
+      "page": 37
+    },
+    {
+      "title": "6. AWS AI-DLC - Deep Dive",
+      "page": 48
+    },
+    {
+      "title": "7. AI Unified Process - Deep Dive",
+      "page": 59
+    },
+    {
+      "title": "8. Spec-Driven Development as an Approach",
+      "page": 70
+    },
+    {
+      "title": "9. Comparing the Methodologies",
+      "page": 79
+    },
+    {
+      "title": "10. Choosing the Right Methodology",
+      "page": 89
+    },
+    {
+      "title": "11. Real-World Case Study: Building a SaaS",
+      "page": 98
+    },
+    {
+      "title": "12. Testing, Security & Production Readiness",
+      "page": 115
+    },
+    {
+      "title": "13. Common Failures and Anti-Patterns",
+      "page": 126
+    },
+    {
+      "title": "14. The Future of AI-Native Engineering",
+      "page": 133
+    },
+    {
+      "title": "Source notes",
+      "page": 139
+    }
+  ]
+}

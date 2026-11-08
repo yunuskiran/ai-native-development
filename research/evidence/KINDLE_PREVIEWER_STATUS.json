@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-05",
+  "status": "NOT COMPLETED",
+  "downloadUrl": "https://d2bzeorukaqrvt.cloudfront.net/KindlePreviewerInstaller.pkg",
+  "packageBytes": 548958500,
+  "packageSha256": "7a66363433b39308100386baef174a073dcb33796d4a1d7ce04b6c638f52ff66",
+  "extractedApplicationVersion": "3.107.0",
+  "packageVerification": "pkgutil reported invalid signature",
+  "applicationVerification": "codesign reported invalid signature (code or signature have been modified), x86_64",
+  "applicationExecuted": false,
+  "systemInstallationPerformed": false,
+  "nextValidation": "Open the EPUB in a valid, signed Kindle Previewer installation or KDP Online Previewer and inspect phone, tablet and e-reader modes. This validation was not performed here."
+}

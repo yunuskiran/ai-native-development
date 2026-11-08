@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-05",
+  "reviewer": "AI assistant",
+  "changes": [
+    {
+      "path": "manuscript/pilot/01-the-evolution-of-ai-assisted-development.md",
+      "old": "This is the book's proposed synthetic case",
+      "new": "This is the book's synthetic case",
+      "occurrences": 1
+    },
+    {
+      "path": "manuscript/pilot/07-ai-unified-process-deep-dive.md",
+      "old": "The reader should be able to",
+      "new": "A reader should be able to",
+      "occurrences": 1
+    },
+    {
+      "path": "manuscript/pilot/12-testing-security-and-production-readiness.md",
+      "old": "The current book contains only the design, documentary source work and proposed checks for that packet.",
+      "new": "The case packet contains the design, documentary source work and proposed checks described here.",
+      "occurrences": 1
+    },
+    {
+      "path": "manuscript/pilot/12-testing-security-and-production-readiness.md",
+      "old": "Our current packet has no operational exercise. The correct disposition is unresolved readiness with a concrete work list, rather than an invented local deployment success or a blanket claim that a method covers production.",
+      "new": "Operational readiness remains open. The packet identifies the exercises and decisions still needed for the selected environment.",
+      "occurrences": 1
+    },
+    {
+      "path": "manuscript/pilot/14-the-future-of-ai-native-engineering.md",
+      "old": "This draft has examined",
+      "new": "This chapter has examined",
+      "occurrences": 1
+    },
+    {
+      "path": "manuscript/pilot/14-the-future-of-ai-native-engineering.md",
+      "old": "A complete first-pass chapter sequence does not close those gates.",
+      "new": "The manuscript and its evidence records preserve these limits for review.",
+      "occurrences": 1
+    }
+  ],
+  "scope": "Targeted English copyedit and removal of stale drafting language. Independent human copyedit remains pending."
+}

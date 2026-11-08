@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-05",
+  "reviewer": "AI assistant",
+  "scope": "Selected AWS and AIUP passages. Remaining manuscript claims require separate review.",
+  "sources": [
+    {
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "retrieved": "2026-11-05",
+      "retrieval": "INSPECTED",
+      "via": "GitHub fetch connector",
+      "totalLines": 255,
+      "ranges": [
+        [
+          24,
+          43
+        ],
+        [
+          45,
+          95
+        ]
+      ],
+      "supports": [
+        "Profiles have different routes and test depths.",
+        "Classic leaves Operations as a placeholder.",
+        "Express disables stage reviewer dispatch.",
+        "Profile defaults and guard-policy configuration affect the selected arrangement."
+      ]
+    },
+    {
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "retrieved": "2026-11-05",
+      "retrieval": "INSPECTED",
+      "via": "GitHub fetch connector",
+      "totalLines": 500,
+      "ranges": [
+        [
+          319,
+          357
+        ],
+        [
+          388,
+          417
+        ],
+        [
+          475,
+          494
+        ]
+      ],
+      "supports": [
+        "Construction reads requirements linked from the use case.",
+        "Decision rights distinguish agent choices from questions and protected edits.",
+        "Coverage audits differ between layered and fixed-stack adapters.",
+        "The Node adapter lacks an equivalent shipped coverage auditor in the inspected snapshot.",
+        "Product changes require specification and implementation reconciliation."
+      ]
+    }
+  ]
+}

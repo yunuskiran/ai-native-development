@@ -1,0 +1,122 @@
+{
+  "prepared": "2026-11-02",
+  "authority": "A11 method-depth pass",
+  "sources": [],
+  "supplementalInspections": [
+    {
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84",
+      "retrieval": "INSPECTED",
+      "accessed": "2026-11-02",
+      "inspectedRanges": [
+        [
+          1,
+          184
+        ]
+      ],
+      "retrievalUrl": "https://raw.githubusercontent.com/bmad-code-org/BMAD-METHOD/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "tool": "web open, raw text",
+      "lineNumbering": "Raw web text indexes start at 0; native GitHub file line = displayed index + 1",
+      "scope": "184-line pinned Build document inspected for routing/review/outputs and unit/coordination boundary; locator corrections do not imply upstream content changed"
+    }
+  ],
+  "renderedRechecks": [
+    {
+      "sourceId": "M2-G04",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/verify-and-ship.md",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc",
+      "retrieval": "INSPECTED — rendered body",
+      "accessed": "2026-11-02",
+      "tool": "web open",
+      "inspectedWebLines": [
+        [
+          171,
+          268
+        ]
+      ],
+      "sections": [
+        "UAT interaction and persisted progress",
+        "Gap diagnosis/planning",
+        "Shipping preflight and PR preparation",
+        "Optional code review",
+        "Freshness and milestone closure"
+      ],
+      "limit": "Rendered inspection corroborates these statements; native source-line numbering was not newly reconstructed. Existing native citation ranges retain historical receipts."
+    }
+  ],
+  "recheckFailures": [
+    {
+      "sourceId": "M2-B03",
+      "tool": "GitHub fetch_file",
+      "retrieval": "NOT VERIFIED IN THIS SESSION (method-depth pass)",
+      "reason": "Connector transport HTTP request failed; no source content returned"
+    },
+    {
+      "sourceId": "M2-G04",
+      "tool": "GitHub fetch_file",
+      "retrieval": "NOT VERIFIED IN THIS SESSION (method-depth pass)",
+      "reason": "Connector transport HTTP request failed; no source content returned"
+    },
+    {
+      "sourceId": "M2-A02",
+      "tool": "GitHub fetch_file",
+      "retrieval": "NOT VERIFIED IN THIS SESSION (method-depth pass)",
+      "reason": "Connector transport HTTP request failed; no source content returned"
+    },
+    {
+      "sourceId": "M2-U01",
+      "tool": "GitHub fetch_file",
+      "retrieval": "NOT VERIFIED IN THIS SESSION (method-depth pass)",
+      "reason": "Connector transport HTTP request failed; no source content returned"
+    },
+    {
+      "sourceId": "M2-A02",
+      "tool": "web open, canonical GitHub URL and raw URL",
+      "retrieval": "NOT VERIFIED IN THIS SESSION (method-depth pass)",
+      "reason": "Cache miss on both routes; earlier dated source receipts remain historical evidence, not a new successful visit"
+    },
+    {
+      "sourceId": "M2-U01",
+      "tool": "web open, canonical GitHub URL and raw URL",
+      "retrieval": "NOT VERIFIED IN THIS SESSION (method-depth pass)",
+      "reason": "Cache miss on both routes; earlier dated source receipts remain historical evidence, not a new successful visit"
+    },
+    {
+      "sourceId": "M2-G04",
+      "tool": "web raw-link click and raw.githubusercontent open",
+      "retrieval": "NOT VERIFIED on raw route",
+      "reason": "Cache miss; rendered canonical page was successfully inspected separately"
+    },
+    {
+      "sourceId": "M2-B03",
+      "tool": "web open, canonical GitHub URL",
+      "retrieval": "NOT VERIFIED on canonical route",
+      "reason": "Cache miss; raw.githubusercontent route was successfully inspected separately"
+    }
+  ],
+  "findings": [
+    {
+      "id": "METHOD-F01",
+      "sourceId": "M2-B03",
+      "finding": "Several saved Build citation locators did not align with their cited passages in the newly retrieved raw file.",
+      "action": "Correct current prose locators in C02/C04/C09/C10/C13; preserve earlier texts/receipts and do not infer a cause or an upstream change at the immutable pin."
+    }
+  ],
+  "claims": [
+    {
+      "id": "METHOD-C01",
+      "sourceId": "M2-B03",
+      "claim": "The inspected Build guidance separates an individual Build unit from larger-work coordination and integration duties.",
+      "locator": "L132–L147",
+      "limit": "Documentary scope, not executed orchestration or effectiveness."
+    },
+    {
+      "id": "METHOD-C02",
+      "sourceId": "M2-G04",
+      "claim": "The rendered UAT guide describes an empty response as a passing checkpoint answer.",
+      "locator": "Rendered web lines 178–188, Run user acceptance testing",
+      "limit": "Specific documented UAT interaction; not universal consent or proof of a tested implementation."
+    }
+  ]
+}

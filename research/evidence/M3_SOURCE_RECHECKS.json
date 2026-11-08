@@ -1,0 +1,240 @@
+{
+  "status": "AI primary-source rechecks; independent technical review pending",
+  "date": "2026-11-01",
+  "distinctSources": 13,
+  "githubFiles": 11,
+  "webPages": 2,
+  "sources": [
+    {
+      "sourceId": "M2-B02",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/choose-a-planning-path.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          8,
+          86
+        ],
+        [
+          118,
+          137
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84"
+    },
+    {
+      "sourceId": "M2-B03",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/build-a-change.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          16,
+          34
+        ],
+        [
+          70,
+          104
+        ],
+        [
+          129,
+          144
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84"
+    },
+    {
+      "sourceId": "M2-B04",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/existing-codebases/start-in-an-existing-codebase.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          8,
+          79
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84"
+    },
+    {
+      "sourceId": "M2-B05",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/plan/define-requirements-and-a-specification.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          97,
+          132
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84"
+    },
+    {
+      "sourceId": "M2-B07",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/docs/build/test-completed-work.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          8,
+          105
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84"
+    },
+    {
+      "sourceId": "M2-B10",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD/blob/bab9082c3e884e0d72c759bcd1a6d90bcc01be84/package.json",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "bab9082c3e884e0d72c759bcd1a6d90bcc01be84"
+    },
+    {
+      "sourceId": "M2-G03",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/docs/how-to/install-on-your-runtime.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          1,
+          10
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc"
+    },
+    {
+      "sourceId": "M2-G06",
+      "url": "https://github.com/open-gsd/gsd-core/blob/72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc/package.json",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          68,
+          74
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "72c4e14dfa56ecc98c04b3fd6736bea2dd3195dc"
+    },
+    {
+      "sourceId": "M2-A02",
+      "url": "https://github.com/awslabs/aidlc-workflows/blob/3939a8b9182f2e4153b92028057a7be74e0684c2/docs/guide/workflow-profiles.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          45,
+          95
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "3939a8b9182f2e4153b92028057a7be74e0684c2"
+    },
+    {
+      "sourceId": "M2-U02",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/aiup-nestjs-nextjs/README.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          9,
+          26
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960"
+    },
+    {
+      "sourceId": "M2-U01",
+      "url": "https://github.com/AI-Unified-Process/marketplace/blob/3ad51b0707e9bed6e54b9de46ebc2f28d7afa960/docs/workflow.md",
+      "kind": "github-file",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          388,
+          417
+        ]
+      ],
+      "lineNumbering": "GitHub file lines",
+      "tool": "GitHub fetch_file connector",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation",
+      "ref": "3ad51b0707e9bed6e54b9de46ebc2f28d7afa960"
+    },
+    {
+      "sourceId": "M2-W11",
+      "url": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
+      "kind": "web",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          429,
+          445
+        ]
+      ],
+      "lineNumbering": "Web extraction lines; locator is session-dependent",
+      "tool": "web.run open",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation"
+    },
+    {
+      "sourceId": "M2-W01",
+      "url": "https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/",
+      "kind": "web",
+      "accessed": "2026-11-01",
+      "retrieval": "INSPECTED",
+      "inspectedRanges": [
+        [
+          210,
+          237
+        ]
+      ],
+      "lineNumbering": "Web extraction lines; locator is session-dependent",
+      "tool": "web.run open",
+      "scope": "Primary-passage recheck for pilot wording only; no execution or effectiveness validation"
+    }
+  ]
+}

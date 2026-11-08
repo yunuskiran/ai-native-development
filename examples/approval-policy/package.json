@@ -1,0 +1,8 @@
+{
+  "name": "book-approval-policy-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test approval-policy.test.ts"
+  }
+}

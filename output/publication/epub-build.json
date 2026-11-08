@@ -1,0 +1,88 @@
+{
+  "format": "EPUB 3 reflowable",
+  "file": "output/publication/engineering-with-ai.epub",
+  "sha256": "72e4d434bd6226e4bacdc0152ff69f762e6b0ce5dcac01393f26bfac91d8c9d4",
+  "chapters": [
+    {
+      "anchor": "c01",
+      "file": "c01.xhtml",
+      "title": "1. The Evolution of AI-Assisted Development"
+    },
+    {
+      "anchor": "c02",
+      "file": "c02.xhtml",
+      "title": "2. Beyond Vibe Coding"
+    },
+    {
+      "anchor": "c03",
+      "file": "c03.xhtml",
+      "title": "3. Understanding AI-Driven Methodologies"
+    },
+    {
+      "anchor": "c04",
+      "file": "c04.xhtml",
+      "title": "4. BMAD Method \u2014 Deep Dive"
+    },
+    {
+      "anchor": "c05",
+      "file": "c05.xhtml",
+      "title": "5. GSD \u2014 Deep Dive"
+    },
+    {
+      "anchor": "c06",
+      "file": "c06.xhtml",
+      "title": "6. AWS AI-DLC \u2014 Deep Dive"
+    },
+    {
+      "anchor": "c07",
+      "file": "c07.xhtml",
+      "title": "7. AI Unified Process \u2014 Deep Dive"
+    },
+    {
+      "anchor": "c08",
+      "file": "c08.xhtml",
+      "title": "8. Spec-Driven Development as an Approach"
+    },
+    {
+      "anchor": "c09",
+      "file": "c09.xhtml",
+      "title": "9. Comparing the Methodologies"
+    },
+    {
+      "anchor": "c10",
+      "file": "c10.xhtml",
+      "title": "10. Choosing the Right Methodology"
+    },
+    {
+      "anchor": "c11",
+      "file": "c11.xhtml",
+      "title": "11. Real-World Case Study: Building a SaaS"
+    },
+    {
+      "anchor": "c12",
+      "file": "c12.xhtml",
+      "title": "12. Testing, Security & Production Readiness"
+    },
+    {
+      "anchor": "c13",
+      "file": "c13.xhtml",
+      "title": "13. Common Failures and Anti-Patterns"
+    },
+    {
+      "anchor": "c14",
+      "file": "c14.xhtml",
+      "title": "14. The Future of AI-Native Engineering"
+    },
+    {
+      "anchor": "source-notes",
+      "file": "sources.xhtml",
+      "title": "Source notes"
+    }
+  ],
+  "renderer": "marked 17.0.5 and lxml",
+  "embeddedFonts": false,
+  "coverPixels": [
+    1600,
+    2560
+  ]
+}

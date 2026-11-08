@@ -1,0 +1,16 @@
+{
+  "status": "PASS \u2014 document integrity only",
+  "artifacts": 15,
+  "words": 67281,
+  "sections": 95,
+  "githubCitationOccurrences": 95,
+  "webCitationOccurrences": 20,
+  "distinctInspectedSources": 35,
+  "localLinkPaths": 225,
+  "linkCheckScope": "registered manuscript and active project documents",
+  "originalMaster": "unchanged",
+  "approvedOutline": "unchanged",
+  "experimentReadiness": "13 unchecked",
+  "independentReview": "pending, not evaluated by this script",
+  "registeredExecutionRecords": 1
+}

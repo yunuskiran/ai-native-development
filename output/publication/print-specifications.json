@@ -1,0 +1,27 @@
+{
+  "trimInches": [
+    6,
+    9
+  ],
+  "paper": "white",
+  "ink": "black and white",
+  "interiorPages": 236,
+  "spineInches": 0.531472,
+  "coverInches": [
+    12.781472,
+    9.25
+  ],
+  "coverBleedInches": 0.125,
+  "barcodeAreaPoints": [
+    279,
+    27,
+    144,
+    86.4
+  ],
+  "ebookCoverPixels": [
+    1600,
+    2560
+  ],
+  "artwork": "Original AI-designed programmatic typography and geometry",
+  "specification": "https://kdp.amazon.com/en_US/help/topic/G201953020"
+}

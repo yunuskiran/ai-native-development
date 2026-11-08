@@ -1,0 +1,27 @@
+{
+  "executedOn": "2026-11-01",
+  "runtime": "v26.13.0",
+  "command": [
+    "node",
+    "--test",
+    "--test-reporter=tap",
+    "examples/approval-policy/approval-policy.test.ts"
+  ],
+  "exitCode": 0,
+  "stdoutFile": "research/evidence/POLICY_MODEL_RUN.tap",
+  "typeChecking": "NOT PERFORMED — tsc not available on session PATH",
+  "scope": "Author-written sequential in-memory approval model only; not an application, independent oracle, methodology run or benchmark",
+  "files": {
+    "examples/approval-policy/approval-policy.ts": "41c065abfebda8058b311bd5bcf29fb144ee5bf8a12f4a445904ff0e103cedf9",
+    "examples/approval-policy/approval-policy.test.ts": "963dc1c7df8debe47376dbf09bd23b6e5373ff961e9ffd67f002072f59f1765c",
+    "examples/approval-policy/package.json": "98ffb7e2d086d2ccdf09996ac44174f1d000af11fbdf6e1fc6035d32b1af89a4"
+  },
+  "outputSummary": [
+    "# tests 10",
+    "# pass 10",
+    "# fail 0",
+    "# skipped 0",
+    "# todo 0"
+  ],
+  "compilerPath": null
+}

@@ -1,0 +1,479 @@
+{
+  "version": "publication-1.1",
+  "prepared": "2026-11-01",
+  "authority": "A11 autonomous manuscript preparation; not human gate acceptance",
+  "evidenceDates": [
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-02"
+  ],
+  "gates": {
+    "G2": "Independent technical review and broader passage-to-claim/locator semantic audit pending",
+    "G3": "Detailed author/reviewer acceptance pending",
+    "G4": "No methodology/application trial; thirteen readiness checks open",
+    "G5": "Author manuscript and publication revision 1.1 prepared: 66,497 words, fourteen chapters and 95 sections. Independent review and final publishing disposition pending."
+  },
+  "sourceReceiptFiles": [
+    "research/evidence/M3_SOURCE_RECHECKS.json",
+    "research/evidence/M3_REVISION_SOURCES.json",
+    "research/evidence/M3_CHAPTER_02_03_SOURCES.json",
+    "research/evidence/MANUSCRIPT_SOURCE_ADDITIONS.json",
+    "research/evidence/DEVELOPMENT_SOURCE_RECHECKS_2026_11_02.json",
+    "research/evidence/METHOD_DEPTH_SOURCE_RECHECKS_2026_11_02.json"
+  ],
+  "expectedSectionCount": 95,
+  "originalMasterSha256": "cf8d65f94375f59e246ea855587588b988ab4f1c04e09dc15d85e6372ac06cc6",
+  "outlineSha256": "37357bad68dccdd5a74af38e4e5cbeaa0116cf6ca5ddc8142a6114947ae35fe9",
+  "countConvention": "Original prose, headings, table/list text; exclude review banners, HTML markers, link destinations and table separators; ASCII alphanumeric word groups with internal apostrophes, slash or hyphen retained",
+  "chapterProseWords": 66497,
+  "companionWords": 784,
+  "totalWords": 67281,
+  "plannedMainTextWords": 66500,
+  "artifacts": [
+    {
+      "path": "manuscript/pilot/01-the-evolution-of-ai-assisted-development.md",
+      "chapterId": "C01",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C01-S01",
+        "C01-S02",
+        "C01-S03",
+        "C01-S04",
+        "C01-S05",
+        "C01-S06"
+      ],
+      "words": 2991,
+      "finalChapterTargetWords": 3000,
+      "sha256": "f528f4c17d3eae9047dcb06fd2f94262155bd8fcd68696d5e97d542c4db25bbf"
+    },
+    {
+      "path": "manuscript/pilot/02-beyond-vibe-coding.md",
+      "chapterId": "C02",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C02-S01",
+        "C02-S02",
+        "C02-S03",
+        "C02-S04",
+        "C02-S05",
+        "C02-S06"
+      ],
+      "words": 3493,
+      "finalChapterTargetWords": 3500,
+      "sha256": "2ef3d86d48c3503ab7cc4cc94b9d4f17e453d74173ec1c66ce230c331d413a10"
+    },
+    {
+      "path": "manuscript/pilot/03-understanding-ai-driven-methodologies.md",
+      "chapterId": "C03",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C03-S01",
+        "C03-S02",
+        "C03-S03",
+        "C03-S04",
+        "C03-S05",
+        "C03-S06",
+        "C03-S07"
+      ],
+      "words": 4547,
+      "finalChapterTargetWords": 4500,
+      "sha256": "dc4537763bc45d7d37c0107e7585d1179af3a739487a882ca8c66d348ae04570"
+    },
+    {
+      "path": "manuscript/pilot/04-bmad-method-deep-dive.md",
+      "chapterId": "C04",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C04-S01",
+        "C04-S02",
+        "C04-S03",
+        "C04-S04",
+        "C04-S05",
+        "C04-S06",
+        "C04-S07"
+      ],
+      "words": 5492,
+      "finalChapterTargetWords": 5500,
+      "sha256": "0dfe4257597d91b126f257bcbb2f5cad295e01aa59d11dd0d187d9c7901e0ebe"
+    },
+    {
+      "path": "manuscript/pilot/05-gsd-deep-dive.md",
+      "chapterId": "C05",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C05-S01",
+        "C05-S02",
+        "C05-S03",
+        "C05-S04",
+        "C05-S05",
+        "C05-S06",
+        "C05-S07"
+      ],
+      "words": 5590,
+      "finalChapterTargetWords": 5500,
+      "sha256": "6c0b9271f3f34fed383518fbd56fa1918745e0e3be54b583e7ab7770e21a8d53"
+    },
+    {
+      "path": "manuscript/pilot/06-aws-ai-dlc-deep-dive.md",
+      "chapterId": "C06",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C06-S01",
+        "C06-S02",
+        "C06-S03",
+        "C06-S04",
+        "C06-S05",
+        "C06-S06",
+        "C06-S07"
+      ],
+      "words": 5566,
+      "finalChapterTargetWords": 5500,
+      "sha256": "4a0d3c334dbf17bf92d80ccc8a421f264bf62b91b60376f71cad85877125e34d"
+    },
+    {
+      "path": "manuscript/pilot/07-ai-unified-process-deep-dive.md",
+      "chapterId": "C07",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C07-S01",
+        "C07-S02",
+        "C07-S03",
+        "C07-S04",
+        "C07-S05",
+        "C07-S06",
+        "C07-S07"
+      ],
+      "words": 5379,
+      "finalChapterTargetWords": 5500,
+      "sha256": "25dae3cafd32f4d97546a2067d7126111aa82934aba5df676fa34e886ffe4b87"
+    },
+    {
+      "path": "manuscript/pilot/08-spec-driven-development-as-an-approach.md",
+      "chapterId": "C08",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C08-S01",
+        "C08-S02",
+        "C08-S03",
+        "C08-S04",
+        "C08-S05",
+        "C08-S06",
+        "C08-S07"
+      ],
+      "words": 4613,
+      "finalChapterTargetWords": 4500,
+      "sha256": "109d4c1021a53dc5c50d4b3b017beaabbabd2450e17ba0c406976c1b24f2ce21"
+    },
+    {
+      "path": "manuscript/pilot/09-comparing-the-methodologies.md",
+      "chapterId": "C09",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C09-S01",
+        "C09-S02",
+        "C09-S03",
+        "C09-S04",
+        "C09-S05",
+        "C09-S06"
+      ],
+      "words": 4853,
+      "finalChapterTargetWords": 5000,
+      "sha256": "ecfdbbed5e52a45681a6bda343d2b85e5bf50fca60946376d270bcd0f597d26f"
+    },
+    {
+      "path": "manuscript/pilot/10-choosing-the-right-methodology.md",
+      "chapterId": "C10",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C10-S01",
+        "C10-S02",
+        "C10-S03",
+        "C10-S04",
+        "C10-S05",
+        "C10-S06",
+        "C10-S07"
+      ],
+      "words": 4438,
+      "finalChapterTargetWords": 4500,
+      "sha256": "8e5043403141d9269e6cbc5803cb63c1cd5a0f175613c424c16e3178be7bbbf4"
+    },
+    {
+      "path": "manuscript/pilot/11-real-world-case-study-building-a-saas.md",
+      "chapterId": "C11",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C11-S01",
+        "C11-S02",
+        "C11-S03",
+        "C11-S04",
+        "C11-S05",
+        "C11-S06",
+        "C11-S07",
+        "C11-S08"
+      ],
+      "words": 7949,
+      "finalChapterTargetWords": 8000,
+      "sha256": "94143dc9d8e49fc0633c891d8ade1c4aae262f8c14e753ba9c8aab4d1efd539b"
+    },
+    {
+      "path": "manuscript/pilot/12-testing-security-and-production-readiness.md",
+      "chapterId": "C12",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C12-S01",
+        "C12-S02",
+        "C12-S03",
+        "C12-S04",
+        "C12-S05",
+        "C12-S06",
+        "C12-S07"
+      ],
+      "words": 5453,
+      "finalChapterTargetWords": 5500,
+      "sha256": "f1deebef9e9e3e662fbc8354098c457c806ec648261c4ea40f74681399bbf31c"
+    },
+    {
+      "path": "manuscript/pilot/13-common-failures-and-anti-patterns.md",
+      "chapterId": "C13",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C13-S01",
+        "C13-S02",
+        "C13-S03",
+        "C13-S04",
+        "C13-S05",
+        "C13-S06",
+        "C13-S07"
+      ],
+      "words": 3653,
+      "finalChapterTargetWords": 3500,
+      "sha256": "7c3cf300ea6e59143a9333417cf30ec60736c19381b43e1eddb48f2ee231c04e"
+    },
+    {
+      "path": "manuscript/pilot/14-the-future-of-ai-native-engineering.md",
+      "chapterId": "C14",
+      "status": "Completed author manuscript; independent technical and publication review pending",
+      "sectionIds": [
+        "C14-S01",
+        "C14-S02",
+        "C14-S03",
+        "C14-S04",
+        "C14-S05",
+        "C14-S06"
+      ],
+      "words": 2480,
+      "finalChapterTargetWords": 2500,
+      "sha256": "f590f0823d6685e206137e1d9c4fd3ac0e56706dc771d89f717cd2b548ca5944"
+    },
+    {
+      "path": "manuscript/pilot/case-walkthrough.md",
+      "chapterId": null,
+      "status": "Historical design-only pilot companion; full qualitative case is C11",
+      "sectionIds": [],
+      "words": 784,
+      "finalChapterTargetWords": null,
+      "sha256": "49ee06ac84d4d74fba52bf9a80eef96e9ef5fe0c746594717cd0595027d6407f"
+    }
+  ],
+  "ancillaryArtifacts": [
+    {
+      "path": "examples/approval-policy/approval-policy.ts",
+      "sha256": "41c065abfebda8058b311bd5bcf29fb144ee5bf8a12f4a445904ff0e103cedf9"
+    },
+    {
+      "path": "examples/approval-policy/approval-policy.test.ts",
+      "sha256": "963dc1c7df8debe47376dbf09bd23b6e5373ff961e9ffd67f002072f59f1765c"
+    },
+    {
+      "path": "examples/approval-policy/package.json",
+      "sha256": "98ffb7e2d086d2ccdf09996ac44174f1d000af11fbdf6e1fc6035d32b1af89a4"
+    },
+    {
+      "path": "examples/approval-policy/README.md",
+      "sha256": "cd5b242085b0be56f02c19db9c6c080d31d3aac7af062abe3c43999dac0180b6"
+    },
+    {
+      "path": "research/evidence/POLICY_MODEL_RUN.json",
+      "sha256": "b429f6581c14d6b5c2c708ff08368ef149d332a91e6404e62b25fb668b81a368"
+    },
+    {
+      "path": "research/evidence/POLICY_MODEL_RUN.tap",
+      "sha256": "4bfb52998f89a4b2c4549c1bbbe13aa927b0ba2c9651ce8f5122a6ed14872522"
+    },
+    {
+      "path": "research/evidence/EDITORIAL_SOURCE_RECHECKS_2026_11_05.json",
+      "sha256": "d71ebf4519e7272b489b96d5b511ceca2861551679fcfffa0247ee3fc838f946"
+    },
+    {
+      "path": "scripts/build_review_manuscript.py",
+      "sha256": "cdc8b5008ad8129b6ffa50b48116914cc5a81624101b30a8680e1bdb3dd45f21"
+    },
+    {
+      "path": "scripts/build_book_pdf.py",
+      "sha256": "7571677fecc0e8ca67888482e9f38d57c2f75837997b8a1cef313ac95666b1bd"
+    },
+    {
+      "path": "scripts/build_publication_cover.py",
+      "sha256": "d4005d137d3f8f926e4a83a739176162110ff05d4480bb99ec86ee46a673536e"
+    },
+    {
+      "path": "scripts/build_epub.py",
+      "sha256": "a745e2ef554827f552f9d101d3e97e0d021ce82b594a5e1e57a2c3de58e1ebb2"
+    },
+    {
+      "path": "scripts/check_publication.py",
+      "sha256": "3697ec86cf732fbe519e4e6c3301c963c0361b5a76d6974a8e93cfcc048d97a3"
+    },
+    {
+      "path": "scripts/package_publication.py",
+      "sha256": "25961f5ce61fd355db998ae9aa1a57b2c62d1dee5cbc4865d4d5a3f33df5ecde"
+    },
+    {
+      "path": "manuscript/REVIEW_MANUSCRIPT.md",
+      "sha256": "141031766494d5a169c3e14c3e7834644abb22e9a2c0691852f5369cb83fba62"
+    },
+    {
+      "path": "manuscript/SOURCE_NOTES.md",
+      "sha256": "ba21dc0f385644cd212d69ba6aacbb4304a78b374cb0c458b27d645d25a19a51"
+    },
+    {
+      "path": "output/pdf/engineering-with-ai.pdf",
+      "sha256": "0df59d23ad3f6aa4c3be15043edab193b37736256fcfd5420b7dd431e7977583"
+    },
+    {
+      "path": "output/pdf/engineering-with-ai-print.pdf",
+      "sha256": "e019229f00692f2cbb6120784d6e993dcb904cf2a6f1dc31abd27138027dacb9"
+    },
+    {
+      "path": "output/publication/engineering-with-ai-paperback-cover.pdf",
+      "sha256": "9a02b43f7d4738c8be0d0ad464edef366473ca2fe409e97353ddfc063b942d36"
+    },
+    {
+      "path": "output/publication/engineering-with-ai-ebook-cover.jpg",
+      "sha256": "55cc26eed508a083b34005ba69f5da4bbe547c8b7f9a0f86f4b40d546b853adb"
+    },
+    {
+      "path": "output/publication/engineering-with-ai.epub",
+      "sha256": "72e4d434bd6226e4bacdc0152ff69f762e6b0ce5dcac01393f26bfac91d8c9d4"
+    },
+    {
+      "path": "output/publication/print-specifications.json",
+      "sha256": "88b11eef0e2a4bf773a781e58a067cd71fde7c85148c35c3cfb89c79efdf0eb8"
+    },
+    {
+      "path": "publication/metadata.json",
+      "sha256": "7a379d96f1ecdac92e414507a06e540224af631c507fda787059cd8cde91b0de"
+    },
+    {
+      "path": "publication/STORE_LISTING.md",
+      "sha256": "c63d119cd7914f3004fb47a9ad6818a17b055ba46f4ad773c368069bfa5b5da8"
+    },
+    {
+      "path": "publication/store-description.html",
+      "sha256": "1671dc7ace915cf3f34b46ceb91689e602092d7e97aa6606398d3063f85d4d3e"
+    },
+    {
+      "path": "publication/REVIEW_REPORT.md",
+      "sha256": "8357aad33c87c68cf1b3f6e9c9bd08c47a54c6634ec1002033b6addaf7a66482"
+    },
+    {
+      "path": "research/evidence/PUBLICATION_AUDIT_2026_11_05.json",
+      "sha256": "f4122ffe959a35ae3ffb9ad8bb12fe11d15617fd955498290ba3ca3254e60e77"
+    },
+    {
+      "path": "research/evidence/PUBLICATION_COPYEDITS.json",
+      "sha256": "af4c531e2b84c768f6393e62fc5da139ea5ad554a2872ad3f34007fdeb678089"
+    },
+    {
+      "path": "research/evidence/EPUBCHECK_PUBLICATION.json",
+      "sha256": "ed5355ce6aecbf766194d9ebc2520f52ce774d7c411848c5d80f951012783251"
+    },
+    {
+      "path": "research/evidence/PUBLICATION_FORMAT_CHECKS.json",
+      "sha256": "ca225f0cc5de004705781aa07c3036df7073b8c9668c8884236fcd993fe3884d"
+    },
+    {
+      "path": "research/evidence/PUBLICATION_VISUAL_QA.json",
+      "sha256": "8b087c87b90f2f7f45648c3a782d8bef971d499c45c4cf70723de52d0ac927ba"
+    },
+    {
+      "path": "research/evidence/PUBLICATION_POLICY_CHECKS.tap",
+      "sha256": "4fe79ea754201adc5154485498e5ddb1319bbeacff4a01d9b1385fe405cb96a7"
+    },
+    {
+      "path": "research/evidence/KINDLE_PREVIEWER_STATUS.json",
+      "sha256": "8ce61fb3c92e0d39c633cfef19b2f0a6453a4c2beeac4192de4dd782c619ab92"
+    },
+    {
+      "path": "output/engineering-with-ai-publication.zip",
+      "sha256": "b52e42e395a9bdc7c75f1cefee377f96b55e9d27f66268c74392b548529a403e"
+    },
+    {
+      "path": "output/publication/UPLOAD_GUIDE.md",
+      "sha256": "ff4adba82174fcb2bb00ccc5368b77e3ea30a064b29fb468b243ba4a417a5117"
+    }
+  ],
+  "executionRecords": [
+    "research/evidence/POLICY_MODEL_RUN.json"
+  ],
+  "previousPilotSnapshot": "research/evidence/PILOT_V0_3_SNAPSHOT.json",
+  "linkCheckPaths": [
+    "manuscript/pilot/01-the-evolution-of-ai-assisted-development.md",
+    "manuscript/pilot/02-beyond-vibe-coding.md",
+    "manuscript/pilot/03-understanding-ai-driven-methodologies.md",
+    "manuscript/pilot/04-bmad-method-deep-dive.md",
+    "manuscript/pilot/05-gsd-deep-dive.md",
+    "manuscript/pilot/06-aws-ai-dlc-deep-dive.md",
+    "manuscript/pilot/07-ai-unified-process-deep-dive.md",
+    "manuscript/pilot/08-spec-driven-development-as-an-approach.md",
+    "manuscript/pilot/09-comparing-the-methodologies.md",
+    "manuscript/pilot/10-choosing-the-right-methodology.md",
+    "manuscript/pilot/11-real-world-case-study-building-a-saas.md",
+    "manuscript/pilot/12-testing-security-and-production-readiness.md",
+    "manuscript/pilot/13-common-failures-and-anti-patterns.md",
+    "manuscript/pilot/14-the-future-of-ai-native-engineering.md",
+    "manuscript/pilot/case-walkthrough.md",
+    "examples/approval-policy/README.md",
+    "manuscript/README.md",
+    "manuscript/SOURCE_NOTES.md",
+    "research/MANUSCRIPT_REPORT.md",
+    "research/MANUSCRIPT_REVIEW.md",
+    "README.md",
+    "TASKS.md",
+    "ROADMAP.md",
+    "QUALITY_GATES.md",
+    "SOURCES.md",
+    "research/WORD_BUDGET.md",
+    "research/DECISION_LOG.md",
+    "research/DEVELOPMENT_PASS_2026_11_02.md",
+    "research/OPEN_QUESTIONS.md",
+    "CASE_STUDY_SPEC.md",
+    "research/METHOD_DEPTH_REVIEW_2026_11_02.md",
+    "manuscript/REVIEW_MANUSCRIPT.md",
+    "publication/STORE_LISTING.md",
+    "publication/REVIEW_REPORT.md",
+    "output/publication/UPLOAD_GUIDE.md"
+  ],
+  "revised": "2026-11-05",
+  "remainingMainTextGap": 3,
+  "developmentBase": "research/evidence/DEVELOPMENT_BASE_2026_11_02.json",
+  "methodDevelopmentBase": "research/evidence/METHOD_DEPTH_BASE_2026_11_02.json",
+  "manuscriptDevelopmentBase": "research/evidence/MANUSCRIPT_BASE_2026_11_04.json",
+  "reviewDraftBase": "research/evidence/REVIEW_DRAFT_BASE.json",
+  "editorialBase": "research/evidence/EDITORIAL_BASE_2026_11_05.json",
+  "completionBase": "research/evidence/COMPLETION_BASE_2026_11_05.json",
+  "deliverables": {
+    "markdown": "manuscript/REVIEW_MANUSCRIPT.md",
+    "pdf": "output/pdf/engineering-with-ai.pdf",
+    "pdfPages": 141,
+    "edition": "1.1",
+    "completed": "2026-11-05",
+    "epub": "output/publication/engineering-with-ai.epub",
+    "printPdf": "output/pdf/engineering-with-ai-print.pdf",
+    "printPages": 236,
+    "wrapCover": "output/publication/engineering-with-ai-paperback-cover.pdf",
+    "ebookCover": "output/publication/engineering-with-ai-ebook-cover.jpg",
+    "package": "output/engineering-with-ai-publication.zip",
+    "kindlePreviewer": "Blocked by failed signature verification"
+  }
+}

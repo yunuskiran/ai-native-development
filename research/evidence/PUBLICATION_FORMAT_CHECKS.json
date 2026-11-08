@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-05",
+  "status": "PASS",
+  "epubVersion": "3.0",
+  "epubInternalReferencesChecked": 133,
+  "longChapterParagraphsVerified": 1088,
+  "printPages": 236,
+  "trimInches": [
+    6,
+    9
+  ],
+  "interiorBleed": false,
+  "readingPages": 141,
+  "readingFontsEmbedded": {
+    "/AAAAAA+Arial-BoldMT": true,
+    "/AAAAAA+ArialMT": true,
+    "/AAAAAA+Georgia": true,
+    "/AAAAAA+AndaleMono": true,
+    "/AAAAAA+Georgia-Bold": true,
+    "/AAAAAA+Georgia-Italic": true
+  },
+  "printFontsEmbedded": {
+    "/AAAAAA+Arial-BoldMT": true,
+    "/AAAAAA+ArialMT": true,
+    "/AAAAAA+Georgia": true,
+    "/AAAAAA+AndaleMono": true,
+    "/AAAAAA+Georgia-Bold": true,
+    "/AAAAAA+Georgia-Italic": true
+  },
+  "coverFontsEmbedded": {
+    "/AAAAAA+ArialMT": true,
+    "/AAAAAA+Arial-BoldMT": true,
+    "/AAAAAA+Georgia": true
+  },
+  "wrapCoverInches": [
+    12.781472222222222,
+    9.25
+  ],
+  "spineInches": 0.531472,
+  "ebookCoverPixels": [
+    1600,
+    2560
+  ],
+  "kindlePreviewer": "NOT COMPLETED: downloaded package and application failed signature verification",
+  "files": {
+    "output/publication/engineering-with-ai.epub": "72e4d434bd6226e4bacdc0152ff69f762e6b0ce5dcac01393f26bfac91d8c9d4",
+    "output/pdf/engineering-with-ai-print.pdf": "e019229f00692f2cbb6120784d6e993dcb904cf2a6f1dc31abd27138027dacb9",
+    "output/publication/engineering-with-ai-paperback-cover.pdf": "9a02b43f7d4738c8be0d0ad464edef366473ca2fe409e97353ddfc063b942d36",
+    "output/pdf/engineering-with-ai.pdf": "0df59d23ad3f6aa4c3be15043edab193b37736256fcfd5420b7dd431e7977583"
+  }
+}

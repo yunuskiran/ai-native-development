@@ -1,0 +1,70 @@
+TAP version 13
+# Subtest: creation-bound v1 high-risk policy still permits one eligible approval
+ok 1 - creation-bound v1 high-risk policy still permits one eligible approval
+  ---
+  duration_ms: 2.129041
+  type: 'test'
+  ...
+# Subtest: standard-risk v2 still requires one approval
+ok 2 - standard-risk v2 still requires one approval
+  ---
+  duration_ms: 0.322208
+  type: 'test'
+  ...
+# Subtest: high-risk v2 stays pending after one actor and completes after a distinct second
+ok 3 - high-risk v2 stays pending after one actor and completes after a distinct second
+  ---
+  duration_ms: 1.894
+  type: 'test'
+  ...
+# Subtest: repeating the first approver cannot count as the distinct second approver
+ok 4 - repeating the first approver cannot count as the distinct second approver
+  ---
+  duration_ms: 0.27225
+  type: 'test'
+  ...
+# Subtest: pending-state requester with approver and admin roles is denied; positive control works
+ok 5 - pending-state requester with approver and admin roles is denied; positive control works
+  ---
+  duration_ms: 0.100625
+  type: 'test'
+  ...
+# Subtest: revoked membership is denied despite an approver role
+ok 6 - revoked membership is denied despite an approver role
+  ---
+  duration_ms: 0.0665
+  type: 'test'
+  ...
+# Subtest: foreign-tenant approver cannot change this tenant request
+ok 7 - foreign-tenant approver cannot change this tenant request
+  ---
+  duration_ms: 0.064292
+  type: 'test'
+  ...
+# Subtest: administrator status alone does not supply an approver role
+ok 8 - administrator status alone does not supply an approver role
+  ---
+  duration_ms: 0.148125
+  type: 'test'
+  ...
+# Subtest: an eligible actor cannot approve either terminal request state
+ok 9 - an eligible actor cannot approve either terminal request state
+  ---
+  duration_ms: 0.224958
+  type: 'test'
+  ...
+# Subtest: a successful partial approval returns fresh state without mutating its input
+ok 10 - a successful partial approval returns fresh state without mutating its input
+  ---
+  duration_ms: 1.747541
+  type: 'test'
+  ...
+1..10
+# tests 10
+# suites 0
+# pass 10
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 223.62825
